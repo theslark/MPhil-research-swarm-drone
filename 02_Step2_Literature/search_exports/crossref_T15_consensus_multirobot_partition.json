@@ -1,0 +1,2843 @@
+[
+ {
+  "DOI": "10.1109/mrs66243.2025.11357252",
+  "title": [
+   "Auction Consensus Algorithm with Loss Mechanism for Decentralized Task Allocation"
+  ],
+  "author": [
+   {
+    "given": "Jose",
+    "family": "Rodriguez",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "The University of Texas Rio Grande Valley (UTRGV),Department of Electrical and Computer Engineering,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Wenjie",
+    "family": "Dong",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "The University of Texas Rio Grande Valley (UTRGV),Department of Electrical and Computer Engineering,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Constantine",
+    "family": "Tarawneh",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "The University of Texas Rio Grande Valley,Department of Mechanical Engineering,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Qi",
+    "family": "Lu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "The University of Texas Rio Grande Valley,Department of Computer Science,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     4
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.21833/ijaas.2026.03.020",
+  "title": [
+   "Consensus-based model predictive control for scalable multi-robot coordination"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of ADVANCED AND APPLIED SCIENCES"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "International Journal of Advanced and Applied Sciences"
+ },
+ {
+  "DOI": "10.1109/lra.2019.2924849",
+  "title": [
+   "Provably Safe Multi-Robot Coordination With Unreliable Communication"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-1627-0921",
+    "authenticated-orcid": false,
+    "given": "Anna",
+    "family": "Mannucci",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-9480-8857",
+    "authenticated-orcid": false,
+    "given": "Lucia",
+    "family": "Pallottino",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-9652-7864",
+    "authenticated-orcid": false,
+    "given": "Federico",
+    "family": "Pecora",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Robotics and Automation Letters"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 20,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1051/matecconf/202642402004",
+  "title": [
+   "Low-Communication Task Coordination Strategy for Multi-Robot Collaboration"
+  ],
+  "author": [
+   {
+    "given": "Qinyu",
+    "family": "Wang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Mechanical Engineering, Tongji University",
+      "place": [
+       "China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "MATEC Web of Conferences"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "EDP Sciences"
+ },
+ {
+  "DOI": "10.1109/ccwc67433.2026.11393706",
+  "title": [
+   "Lightweight Bidding Framework for Communication-Efficient Multi-Robot Coordination in Clue-Based Search"
+  ],
+  "author": [
+   {
+    "given": "James",
+    "family": "Lott",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Shiley Marcos School of Engineering, University of San Diego,San Diego,United States of America"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Vahraz",
+    "family": "Honary",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shiley Marcos School of Engineering, University of San Diego,San Diego,United States of America"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE 16th Annual Computing and Communication Workshop and Conference (CCWC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iccta68914.2025.11520014",
+  "title": [
+   "Coordinated Formation and Resilience in Mobile Multi-Robot Systems: Consensus-Based Control in Dynamic Environments"
+  ],
+  "author": [
+   {
+    "given": "Esraa",
+    "family": "Hussien",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Information Technology, New Giza University",
+      "place": [
+       "Giza, Egypt"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sameh",
+    "family": "Saad",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Conventry University Branch",
+      "place": [
+       "New Admin Capital, Egypt"
+      ],
+      "department": [
+       "Mechanical Departement"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Moutaz",
+    "family": "Hegaze",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Arab Academy for Science, Technology and Maritime",
+      "place": [
+       "Giza, Egypt"
+      ],
+      "department": [
+       "Mechanical Departement"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 35th International Conference on Computer Theory and Applications (ICCTA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/ro-man72286.2026.11714648",
+  "title": [
+   "A Multi-Operator Mixed-Reality Interface for Multi-Robot Control and Coordination: Co-Located and Private Workspace Collaboration"
+  ],
+  "author": [
+   {
+    "given": "Omotoye Shamsudeen",
+    "family": "Adekoya",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Genoa",
+      "department": [
+       "DIBRIS Department"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Antonio",
+    "family": "Sgorbissa",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Genoa",
+      "department": [
+       "DIBRIS Department"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Carmine Tommaso",
+    "family": "Recchiuto",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Genoa",
+      "department": [
+       "DIBRIS Department"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/lra.2020.3007420",
+  "title": [
+   "Dynamic Median Consensus for Marine Multi-Robot Systems Using Acoustic Communication"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-8654-9680",
+    "authenticated-orcid": false,
+    "given": "Goran",
+    "family": "Vasiljevic",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-4279-303X",
+    "authenticated-orcid": false,
+    "given": "Tamara",
+    "family": "Petrovic",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-7746-3052",
+    "authenticated-orcid": false,
+    "given": "Barbara",
+    "family": "Arbanas",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Stjepan",
+    "family": "Bogdan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Robotics and Automation Letters"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 27,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1109/cac57257.2022.10055834",
+  "title": [
+   "Predefined-Time Consensus Tracking Control of Multi-Agent Systems With Resilience to Communication Link Attacks"
+  ],
+  "author": [
+   {
+    "given": "Yani",
+    "family": "Wang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Shantou University,College of Engineering"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yangyang",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shantou University,College of Engineering"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Minyin",
+    "family": "Lu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shantou University,College of Engineering"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "An-Min",
+    "family": "Zou",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shantou University,College of Engineering"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     25
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 China Automation Congress (CAC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.31548/energiya2(78).2025.106",
+  "title": [
+   "Hybrid control strategies for multi-robot systems: enhancing coordination, communication, and adaptability"
+  ],
+  "author": [
+   {
+    "given": "V.",
+    "family": "A. Nazarenko",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Y.",
+    "family": "O. Romasevych",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     26
+    ]
+   ]
+  },
+  "container-title": [
+   "Energy and automation"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "National University of Life and Environmental Sciences of Ukraine"
+ },
+ {
+  "DOI": "10.1109/icra48506.2021.9561041",
+  "title": [
+   "Communication-Aware Multi-robot Coordination with Submodular Maximization"
+  ],
+  "author": [
+   {
+    "given": "Guangyao",
+    "family": "Shi",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ishat E",
+    "family": "Rabban",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Lifeng",
+    "family": "Zhou",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Pratap",
+    "family": "Tokekar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     30
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 15,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1007/s44430-026-00039-z",
+  "title": [
+   "Safety-aware multi-robot coordination in industrial cyber-physical systems using potential fields and handcrafted communication"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0004-4806-0077",
+    "authenticated-orcid": false,
+    "given": "Bernard",
+    "family": "Kyiewu",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0006-8414-9794",
+    "authenticated-orcid": false,
+    "given": "Clinton",
+    "family": "Amponsah",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0003-7434-4201",
+    "authenticated-orcid": false,
+    "given": "Linda",
+    "family": "Bessa-Simons",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0008-6382-4193",
+    "authenticated-orcid": false,
+    "given": "Andrew",
+    "family": "Oppong-Asante",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0008-4955-6786",
+    "authenticated-orcid": false,
+    "given": "Caleb Boakye",
+    "family": "Yiadom",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "Discover Robotics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.23919/ccc64809.2025.11179678",
+  "title": [
+   "Distributed Event-Triggered Consensus Tracking Control of Multi-Agent Systems with Packet Loss and Communication Delay"
+  ],
+  "author": [
+   {
+    "given": "Yuanqing",
+    "family": "Fang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,Nanjing,210000"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jiaxin",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,Nanjing,210000"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Mingyang",
+    "family": "Xie",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,Nanjing,210000"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     7,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 44th Chinese Control Conference (CCC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/mrs66243.2025.11357248",
+  "title": [
+   "Bandwidth-Aware Multi-Robot Coordination with Utility-Guided Coalition Formation"
+  ],
+  "author": [
+   {
+    "given": "Rhett",
+    "family": "Hull",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Technology Sydney,Ultimo,NSW,Australia,2006"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Robert",
+    "family": "Fitch",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Technology Sydney,Ultimo,NSW,Australia,2006"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Graeme",
+    "family": "Best",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Technology Sydney,Ultimo,NSW,Australia,2006"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     4
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/mrs.2019.8901066",
+  "title": [
+   "Experimental Validation of Stable Coordination for Multi-Robot Systems with Limited Fields of View using a Portable Multi-Robot Testbed- EXTENDED ABSTRACT"
+  ],
+  "author": [
+   {
+    "given": "Pratik",
+    "family": "Mukherjee",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Matteo",
+    "family": "Santilli",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Andrea",
+    "family": "Gasparri",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Ryan K.",
+    "family": "Williams",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 7,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iccp68926.2025.11427142",
+  "title": [
+   "Consensus Line Formations in Non-Holonomic Multi-Robot Systems Enabled by Decentralized Approximate MST"
+  ],
+  "author": [
+   {
+    "given": "Dan M.",
+    "family": "Novischi",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University Politehnica of Bucharest,dept. Computers Science,Bucharest,Romania"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Adina M.",
+    "family": "Florea",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University Politehnica of Bucharest,dept. Computers Science,Bucharest,Romania"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     16
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.48047/resmil.v9i1.20",
+  "title": [
+   "Swarm Robotics: Coordination and Collaboration in Multi-Robot Systems"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     3,
+     22
+    ]
+   ]
+  },
+  "container-title": [
+   "resMilitaris"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Institute for Advanced Studies"
+ },
+ {
+  "DOI": "10.1109/icra48891.2023.10161553",
+  "title": [
+   "Epistemic Prediction and Planning with Implicit Coordination for Multi-Robot Teams in Communication Restricted Environments"
+  ],
+  "author": [
+   {
+    "given": "Lauren",
+    "family": "Bramblett",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Virginia,Departments of Engineering Systems and Environment and Electrical and Computer Engineering,Charlottesville,VA,USA,22904"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shijie",
+    "family": "Gao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Virginia,Departments of Engineering Systems and Environment and Electrical and Computer Engineering,Charlottesville,VA,USA,22904"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Nicola",
+    "family": "Bezzo",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Virginia,Departments of Engineering Systems and Environment and Electrical and Computer Engineering,Charlottesville,VA,USA,22904"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     5,
+     29
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 9,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iros58592.2024.10802832",
+  "title": [
+   "Decentralized Communication-Maintained Coordination for Multi-Robot Exploration: Achieving Connectivity and Adaptability"
+  ],
+  "author": [
+   {
+    "given": "Wei",
+    "family": "Tang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Zhejiang University,Department of Control Science and Engineering,Hangzhou,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chao",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "DeepRobotics Inc"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jun",
+    "family": "Wu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Zhejiang University,Department of Control Science and Engineering,Hangzhou,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qiuguo",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Zhejiang University,Department of Control Science and Engineering,Hangzhou,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 6,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iemecon69302.2025.11365802",
+  "title": [
+   "Formal Verification of Fault-Prone Multi-Robot Consensus System with Switching Dynamics"
+  ],
+  "author": [
+   {
+    "given": "Ruchika",
+    "family": "Bhardwaj",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "SCEE, IIT Mandi,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Dmitry",
+    "family": "Malyshev",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "BSTU,Belgorod,Russia"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Larisa",
+    "family": "Rybak",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "BSTU,Belgorod,Russia"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Narendra Kumar",
+    "family": "Dhar",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "SCEE, IIT Mandi,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 13th International Conference on Intelligent Embedded, MicroElectronics, Communication and Optical Networks (IEMECON)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/mrs66243.2025.11357269",
+  "title": [
+   "Compositional Coordination for Multi-Robot Teams with Large Language Models"
+  ],
+  "author": [
+   {
+    "given": "Zhehui",
+    "family": "Huang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Southern California,Department of Computer Science,Los Angeles,CA,USA,90089"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Guangyao",
+    "family": "Shi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Southern California,Department of Computer Science,Los Angeles,CA,USA,90089"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yuwei",
+    "family": "Wu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Pennsylvania,GRASP Lab,Philadelphia,PA,USA,19104"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Vijay",
+    "family": "Kumar",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Pennsylvania,GRASP Lab,Philadelphia,PA,USA,19104"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Gaurav S.",
+    "family": "Sukhatme",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Southern California,Department of Computer Science,Los Angeles,CA,USA,90089"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     4
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/access65134.2025.11135706",
+  "title": [
+   "An Adaptive Heuristic Approach for Energy Efficient Multi-Robot Coordination in Dynamic Environment"
+  ],
+  "author": [
+   {
+    "given": "Adityan Rajesh",
+    "family": "P",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Amrita Vishwa Vidyapeetham,Amrita School of Computing,Kollam,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Kiran",
+    "family": "P",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Amrita Vishwa Vidyapeetham,Amrita School of Computing,Kollam,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 4th International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/lra.2023.3304905",
+  "title": [
+   "Multi-Agent Visual Coordination Using Optical Wireless Communication"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0000-3186-4010",
+    "authenticated-orcid": false,
+    "given": "Haruyuki",
+    "family": "Nakagawa",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Scienceng, Tokyo Institute of Technology, Tokyo, Japan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-3217-1405",
+    "authenticated-orcid": false,
+    "given": "Asako",
+    "family": "Kanezaki",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Scienceng, Tokyo Institute of Technology, Tokyo, Japan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Robotics and Automation Letters"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 5,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1109/mrs.2019.8901100",
+  "title": [
+   "Communication Through Motion: Legibility of Multi-Robot Systems"
+  ],
+  "author": [
+   {
+    "given": "Beatrice",
+    "family": "Capelli",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Cristian",
+    "family": "Secchi",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Lorenzo",
+    "family": "Sabattini",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 17,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1108/ijpcc-12-2024-0449",
+  "title": [
+   "Performance analysis of communication protocols for multi-robot coordination in agricultural field"
+  ],
+  "author": [
+   {
+    "given": "Nirali",
+    "family": "Sanghvi",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Indian Institute of Technology Roorkee Department of Computer Science and Engineering, , Roorkee,",
+      "place": [
+       "India"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Rajdeep",
+    "family": "Niyogi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Indian Institute of Technology Roorkee Department of Computer Science and Engineering, , Roorkee,",
+      "place": [
+       "India"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Rajeshwar",
+    "family": "Tripathi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Indian Institute of Technology Roorkee Department of Computer Science and Engineering, , Roorkee,",
+      "place": [
+       "India"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     21
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Pervasive Computing and Communications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 3,
+  "publisher": "Emerald"
+ },
+ {
+  "DOI": "10.2738/engai.2026.0008",
+  "title": [
+   "Subgraph Attention Framework for Implicit Coordination in Multi-Robot Task Allocation Without Communication"
+  ],
+  "author": [
+   {
+    "given": "Zirui",
+    "family": "Wu",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jianing",
+    "family": "Hu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Weiran",
+    "family": "Yao",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jianxing",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sergio",
+    "family": "Vazquez",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jose I.",
+    "family": "Leon",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Leopoldo G.",
+    "family": "Franquelo",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "ENGINEERING Artificial Intelligence"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Higher Education Press"
+ },
+ {
+  "DOI": "10.35840/2631-5106/4129",
+  "title": [
+   "Finite-Time Consensus of Nonlinear Multi-Agent Systems in the Presence of Unknown Communication Time Delays and Partial Access to Neighboring Agents Signals"
+  ],
+  "author": [
+   {
+    "given": "Sharifi",
+    "family": "Maryam",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     12,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Robotic Engineering"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 1,
+  "publisher": "VIBGYOR ePress"
+ },
+ {
+  "DOI": "10.1109/icaccs60874.2024.10717088",
+  "title": [
+   "Swarm Intelligence for Multi-Robot Coordination in Agricultural Automation"
+  ],
+  "author": [
+   {
+    "given": "L.B.",
+    "family": "Abhang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Pravara Rural Engineering CollegeLoni, under. SPPU, University,Automation and Robotics Dept,Pune,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Annapurna",
+    "family": "Gummadi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "CVR College of Engineering,Department of CSE (Data Science),Hyderabad,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ravindra",
+    "family": "Changala",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Guru Nanak Institutions Technical Campus,Department of Information Technology,Hyderabad,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Veera Ankalu",
+    "family": "Vuyyuru",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Koneru Lakshmaiah Education Foundation,Department of Computer Science and Engineering,Vaddeswaram,Andhra Pradesh,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sabareesh",
+    "family": "R",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Ecsotics Farm Foods Private Limited,Bangalore,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "I Infant",
+    "family": "Raj",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "K.Ramakrishnan College of Engineering,Department of Computer Science and Engineering,Trichy,Tamil Nadu,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     3,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 10,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/cicn67655.2025.11368255",
+  "title": [
+   "A Hybrid Parrot Optimization-ANFIS Framework with Petri Net Coordination for Cooperative Multi-Robot Navigation"
+  ],
+  "author": [
+   {
+    "given": "Krishna Teja",
+    "family": "Godavarthy",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "National Institute of Technology,Robotics and Mechatronics Laboratory,Arunachal Pradesh,India,791113"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Prases K.",
+    "family": "Mohanty",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National Institute of Technology,Robotics and Mechatronics Laboratory,Arunachal Pradesh,India,791113"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Shubhajit",
+    "family": "Das",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Assam Skill Univesrsity,Department of Mechanical Engineering,Guwahati,Assam,781008"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE 17th International Conference on Computational Intelligence and Communication Networks (CICN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/lra.2023.3248372",
+  "title": [
+   "Online Submodular Coordination With Bounded Tracking Regret: Theory, Algorithm, and Applications to Multi-Robot Coordination"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-2700-5632",
+    "authenticated-orcid": false,
+    "given": "Zirui",
+    "family": "Xu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Aerospace Engineering, University of Michigan, Ann Arbor, MI, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9053-9795",
+    "authenticated-orcid": false,
+    "given": "Hongyu",
+    "family": "Zhou",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Aerospace Engineering, University of Michigan, Ann Arbor, MI, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9951-5255",
+    "authenticated-orcid": false,
+    "given": "Vasileios",
+    "family": "Tzoumas",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Aerospace Engineering, University of Michigan, Ann Arbor, MI, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     4
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Robotics and Automation Letters"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 13,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1155/2023/9769026",
+  "title": [
+   "Retracted: Distributed Consensus Algorithm for Nonholonomic Wheeled Mobile Robot"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     12,
+     29
+    ]
+   ]
+  },
+  "container-title": [
+   "Security and Communication Networks"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Wiley"
+ },
+ {
+  "DOI": "10.1109/icra40945.2020.9196758",
+  "title": [
+   "Subspace Projectors for State-Constrained Multi-Robot Consensus"
+  ],
+  "author": [
+   {
+    "given": "Fabio",
+    "family": "Morbidi",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 IEEE International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/ro-man72286.2026.11714905",
+  "title": [
+   "Spatial Graph-Based Multi-Agent Reinforcement Learning for Asynchronous Coordination with Dynamic Entities"
+  ],
+  "author": [
+   {
+    "given": "Ryo",
+    "family": "Moriyama",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Fujitsu Limited",
+      "place": [
+       "Kanagawa, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Junpei",
+    "family": "Yamaguchi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Fujitsu Limited",
+      "place": [
+       "Kanagawa, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hidetsugu",
+    "family": "Uchida",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Fujitsu Limited",
+      "place": [
+       "Kanagawa, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Narishige",
+    "family": "Abe",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Fujitsu Limited",
+      "place": [
+       "Kanagawa, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shigefumi",
+    "family": "Yamada",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Fujitsu Limited",
+      "place": [
+       "Kanagawa, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE 35th International Conference on Robot and Human Interactive Communication (RO-MAN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/mrs66243.2025.11357255",
+  "title": [
+   "Destination-to-Chutes Task Mapping Optimization for Multi-Robot Coordination in Robotic Sorting Systems"
+  ],
+  "author": [
+   {
+    "given": "Yulun",
+    "family": "Zhang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Robotics Institute, Carnegie Mellon University"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Alexandre O. G.",
+    "family": "Barbosa",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Amazon Robotics"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Federico",
+    "family": "Pecora",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Amazon Robotics"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jiaoyang",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Robotics Institute, Carnegie Mellon University"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     4
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1007/s11721-021-00209-2",
+  "title": [
+   "On multi-human multi-robot remote interaction: a study of transparency, inter-human communication, and information loss in remote interaction"
+  ],
+  "author": [
+   {
+    "given": "Jayam",
+    "family": "Patel",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Prajankya",
+    "family": "Sonar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-2155-0445",
+    "authenticated-orcid": false,
+    "given": "Carlo",
+    "family": "Pinciroli",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     3,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Swarm Intelligence"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 11,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1109/iros58592.2024.10802189",
+  "title": [
+   "Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination"
+  ],
+  "author": [
+   {
+    "given": "Yupeng",
+    "family": "Yang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of North Carolina at Charlotte",
+      "place": [
+       "Charlotte, NC, USA"
+      ],
+      "department": [
+       "Department of Computer Science"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yiwei",
+    "family": "Lyu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Carnegie Mellon University",
+      "place": [
+       "Pittsburgh, PA, USA"
+      ],
+      "department": [
+       "Department of Electrical and Computer Engineering"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yanze",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of North Carolina at Charlotte",
+      "place": [
+       "Charlotte, NC, USA"
+      ],
+      "department": [
+       "Department of Computer Science"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ian",
+    "family": "Gao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of North Carolina at Charlotte",
+      "place": [
+       "Charlotte, NC, USA"
+      ],
+      "department": [
+       "Department of Computer Science"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wenhao",
+    "family": "Luo",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of North Carolina at Charlotte",
+      "place": [
+       "Charlotte, NC, USA"
+      ],
+      "department": [
+       "Department of Computer Science"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/aiea70743.2026.11633069",
+  "title": [
+   "Leader-Trend-Guided Adaptive Formation Coordination Under Delayed Communication for Indoor Firefighting Multi-Robot Systems"
+  ],
+  "author": [
+   {
+    "given": "Pingping",
+    "family": "Long",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Nankai University",
+      "place": [
+       "Tianjin, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yanyu",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shandong Sacred Sun Power Sources Co., Ltd.",
+      "place": [
+       "Qufu, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yongkang",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nankai University",
+      "place": [
+       "Tianjin, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qingxiang",
+    "family": "Wu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nankai University",
+      "place": [
+       "Tianjin, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tong",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nankai University",
+      "place": [
+       "Tianjin, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 7th International Conference on Artificial Intelligence and Electromechanical Automation (AIEA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icphm69567.2026.11585402",
+  "title": [
+   "Resilient Multi-Agent Systems Consensus Under Markovian Communication Loss and Heterogeneous Faults"
+  ],
+  "author": [
+   {
+    "given": "Ailin",
+    "family": "Barzegar",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Ottawa,Department of Mechanical Engineering,Ottawa,ON,Canada"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Afshin",
+    "family": "Rahimi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Windsor,Mechanical, Automotive &amp; Materials Engineering,Windsor,ON,Canada"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE International Conference on Prognostics and Health Management (ICPHM)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.apor.2023.103848",
+  "title": [
+   "Coordination of marine multi robot systems with communication constraints"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-9189-5265",
+    "authenticated-orcid": false,
+    "given": "Antoni",
+    "family": "Martorell-Torres",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-4772-6568",
+    "authenticated-orcid": false,
+    "given": "Jos\u00e9",
+    "family": "Guerrero-Sastre",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-6910-1940",
+    "authenticated-orcid": false,
+    "given": "Gabriel",
+    "family": "Oliver-Codina",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Applied Ocean Research"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 24,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1109/icamechs63130.2024.10818723",
+  "title": [
+   "Multi-robot FastSLAM based on consensus of observed data"
+  ],
+  "author": [
+   {
+    "given": "Daiki",
+    "family": "Tetsuno",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Ritsumeikan University,Graduate School of Science and Engineering,Shiga,Japan"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Kiyotsugu",
+    "family": "Takaba",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Ritsumeikan University,College of Science and Enginneering,Shiga,Japan"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     11,
+     26
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 International Conference on Advanced Mechatronic Systems (ICAMechS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ }
+]

@@ -1,0 +1,542 @@
+[
+ {
+  "DOI": "10.1145/3759355.3759373",
+  "title": [
+   "Measuring the Robustness of Multi-Agent Reinforcement Learning Systems under Partial Agent Failure"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     23
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the Intelligent Robotics FAIR 2025"
+  ],
+  "is-referenced-by-count": 3
+ },
+ {
+  "DOI": "10.5220/0013383400003905",
+  "title": [
+   "Exploring Communication in Multi-Agent Reinforcement Learning Under Agent Malfunction"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.5220/0013400100003896",
+  "title": [
+   "Multi-Agent Causal Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 13th International Conference on Model-Based Software and Systems Engineering"
+  ],
+  "is-referenced-by-count": 2
+ },
+ {
+  "DOI": "10.5220/0011872800003393",
+  "title": [
+   "Turn-Based Multi-Agent Reinforcement Learning Model Checking"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 15th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.5220/0010849600003116",
+  "title": [
+   "Micro Junction Agent: A Scalable Multi-agent Reinforcement Learning Method for Traffic Control"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 14th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.1007/s10458-023-09633-6",
+  "title": [
+   "A survey of multi-agent deep reinforcement learning with communication"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     1,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 180
+ },
+ {
+  "DOI": "10.1007/s10458-024-09644-x",
+  "title": [
+   "Correction: A survey of multi-agent deep reinforcement learning with communication"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     3,
+     16
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 32
+ },
+ {
+  "DOI": "10.5220/0012434700003636",
+  "title": [
+   "Multi-Agent Deep Reinforcement Learning for Collaborative Task Scheduling"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 16th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.23919/ccc64809.2025.11179405",
+  "title": [
+   "Research on the Robustness of Cooperative Multi-Agent Deep Reinforcement Learning: A Policy Regularization Method Based on Transfer Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     7,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 44th Chinese Control Conference (CCC)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/apsec57359.2022.00018",
+  "title": [
+   "Adversarial Deep Reinforcement Learning for Improving the Robustness of Multi-agent Autonomous Driving Policies"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 29th Asia-Pacific Software Engineering Conference (APSEC)"
+  ],
+  "is-referenced-by-count": 30
+ },
+ {
+  "DOI": "10.5220/0010785200003116",
+  "title": [
+   "Multi-agent Transfer Learning in Reinforcement Learning-based Ride-sharing Systems"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 14th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 9
+ },
+ {
+  "DOI": "10.1049/icp.2025.2952",
+  "title": [
+   "Safety robustness of deep reinforcement learning in multi-agent scenarios"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "IET Conference Proceedings"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.24963/ijcai.2019/832",
+  "title": [
+   "Failure-Scenario Maker for Rule-Based Agent using Multi-agent Adversarial Reinforcement Learning and its Application to Autonomous Driving"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 60
+ },
+ {
+  "DOI": "10.5220/0010241302890295",
+  "title": [
+   "Decentralized Multi-agent Formation Control via Deep Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 13th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 2
+ },
+ {
+  "DOI": "10.5220/0014462800004052",
+  "title": [
+   "Polarity Related Influence Maximization through Multi-Agent Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 18th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1007/s10458-026-09747-7",
+  "title": [
+   "Confidence-Based curricula for multi-agent path finding via reinforcement learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     30
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 2
+ },
+ {
+  "DOI": "10.1007/s10458-025-09698-5",
+  "title": [
+   "Investigating the impact of direct punishment on the emergence of cooperation in multi-agent reinforcement learning systems"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     3,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 7
+ },
+ {
+  "DOI": "10.1109/itsc45102.2020.9294623",
+  "title": [
+   "Multi-Agent Reinforcement Learning for Traffic Signal Control: Algorithms and Robustness Analysis"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     9,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)"
+  ],
+  "is-referenced-by-count": 9
+ },
+ {
+  "DOI": "10.1007/s10458-022-09548-8",
+  "title": [
+   "Quantifying the effects of environment and population diversity in multi-agent reinforcement learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     3,
+     18
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 16
+ },
+ {
+  "DOI": "10.1007/s10458-026-09739-7",
+  "title": [
+   "Quantification of transfer in reinforcement learning via regret bounds for learning agents"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.5220/0012082200003541",
+  "title": [
+   "Characterizing Speed Performance of Multi-Agent Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 12th International Conference on Data Science, Technology and Applications"
+  ],
+  "is-referenced-by-count": 4
+ },
+ {
+  "DOI": "10.1109/spw50608.2020.00027",
+  "title": [
+   "On the Robustness of Cooperative Multi-Agent Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 IEEE Security and Privacy Workshops (SPW)"
+  ],
+  "is-referenced-by-count": 50
+ },
+ {
+  "DOI": "10.1007/s10458-024-09682-5",
+  "title": [
+   "Formal contracts mitigate social dilemmas in multi-agent reinforcement learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     18
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 5
+ },
+ {
+  "DOI": "10.5220/0010762100003116",
+  "title": [
+   "Towards Multi-agent Reinforcement Learning using Quantum Boltzmann Machines"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 14th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 4
+ },
+ {
+  "DOI": "10.1109/cog52621.2021.9619002",
+  "title": [
+   "MAIDRL: Semi-centralized Multi-Agent Reinforcement Learning using Agent Influence"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     8,
+     17
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE Conference on Games (CoG)"
+  ],
+  "is-referenced-by-count": 12
+ },
+ {
+  "DOI": "10.5220/0009160102870294",
+  "title": [
+   "Learning Efficient Coordination Strategy for Multi-step Tasks in Multi-agent Systems using Deep Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 12th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1007/s10458-023-09603-y",
+  "title": [
+   "Scaling multi-agent reinforcement learning to full 11 versus 11 simulated robotic football"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     3,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 14
+ },
+ {
+  "DOI": "10.5220/0012475100003636",
+  "title": [
+   "Multi-Agent Archive-Based Inverse Reinforcement Learning by Improving Suboptimal Experts"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 16th International Conference on Agents and Artificial Intelligence"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.5220/0012462800003654",
+  "title": [
+   "Towards Self-Adaptive Resilient Swarms Using Multi-Agent Reinforcement Learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.1007/s10458-024-09669-2",
+  "title": [
+   "Carbon trading supply chain management based on constrained deep reinforcement learning"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     8,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "Autonomous Agents and Multi-Agent Systems"
+  ],
+  "is-referenced-by-count": 16
+ }
+]

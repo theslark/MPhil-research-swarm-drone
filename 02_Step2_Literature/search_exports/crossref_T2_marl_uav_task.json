@@ -1,0 +1,2687 @@
+[
+ {
+  "DOI": "10.1109/cloudsummit68932.2026.00036",
+  "title": [
+   "Dynamic Task Allocation and Path Planning for Multi-UAV Disaster Search Using Multi-Agent Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Malek",
+    "family": "Chabbouh",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Qatar University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Amr",
+    "family": "Mohamed",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Qatar University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE Cloud Summit"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icicn59530.2023.10393695",
+  "title": [
+   "Multi-Agent Reinforcement Learning Assisted Multi-Task Decision Making for UAV Swarm"
+  ],
+  "author": [
+   {
+    "given": "Wenlong",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Xidian University,School of Telecommunications Engineering,Xi&#x2019;an,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yifan",
+    "family": "Zhou",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Xidian University,School of Telecommunications Engineering,Xi&#x2019;an,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jia",
+    "family": "Shi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Xidian University,School of Telecommunications Engineering,Xi&#x2019;an,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     8,
+     17
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE 11th International Conference on Information, Communication and Networks (ICICN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/cai68641.2026.11536648",
+  "title": [
+   "Multi-Agent Reinforcement Learning for Time-Critical UAV Medical Supply Delivery with Dynamic Task Allocation"
+  ],
+  "author": [
+   {
+    "given": "Islam",
+    "family": "Guven",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Universit&#x00E9; Catholique de Louvain,ICTEAM,Belgium"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mehmet",
+    "family": "Parlak",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Universit&#x00E9; Catholique de Louvain,ICTEAM,Belgium"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE Conference on Artificial Intelligence (CAI)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.neucom.2026.134817",
+  "title": [
+   "Attention-guided multi-agent deep reinforcement learning for UAV swarm path planning in five-dimensional task spaces"
+  ],
+  "author": [
+   {
+    "given": "Xin",
+    "family": "Zhang",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Guang",
+    "family": "Cheng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yu",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Dejin",
+    "family": "Tao",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-0228-6749",
+    "authenticated-orcid": false,
+    "given": "Yuming",
+    "family": "Bo",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "Neurocomputing"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 1,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1007/s00607-025-01472-5",
+  "title": [
+   "Task offloading and resource allocation for multi-UAV asset edge computing with multi-agent deep reinforcement learning"
+  ],
+  "author": [
+   {
+    "given": "Samah A.",
+    "family": "Zakaryia",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mohamed",
+    "family": "Meaad",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tamer",
+    "family": "Nabil",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mohamed K.",
+    "family": "Hussein",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "Computing"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 45,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1109/icra57385.2026.11697138",
+  "title": [
+   "TACC: Multi-agent Reinforcement Learning for Task Allocation with Communication Coordination in UAV Swarms"
+  ],
+  "author": [
+   {
+    "given": "Zehao",
+    "family": "Xiong",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yexun",
+    "family": "Xi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yizhe",
+    "family": "Cao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chuan",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Rong",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Lixian",
+    "family": "Shen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jie",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology",
+      "place": [
+       "Changsha, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icra57385.2026.11695864",
+  "title": [
+   "Precedence-Aware Multi-UAV Task Allocation with an Attention-Based Reinforcement Learning Framework"
+  ],
+  "author": [
+   {
+    "given": "Xurui",
+    "family": "Liu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Nanjing University",
+      "place": [
+       "Suzhou, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/cpnn71220.2026.11706443",
+  "title": [
+   "Graph Convolutional Multi-Agent Reinforcement Learning for Cooperative UAV Swarm Navigation"
+  ],
+  "author": [
+   {
+    "given": "Yucheng",
+    "family": "Lin",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Fujian Normal University",
+      "place": [
+       "Fuzhou, China"
+      ],
+      "department": [
+       "Photonic and Electronic Engineering"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hua",
+    "family": "Zheng",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Fujian Normal University",
+      "place": [
+       "Fuzhou, China"
+      ],
+      "department": [
+       "Photonic and Electronic Engineering"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 International Conference on Computer Perception and Neural Networks (CPNN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.67728/eci.2026.003",
+  "title": [
+   "A Communication-Aware Multi-Agent Deep Reinforcement Learning Framework for UAV-Swarm Relay Deployment via 3D Trajectory Control"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0004-6060-9050",
+    "authenticated-orcid": false,
+    "given": "Shanshan",
+    "family": "He",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "Engineering and Computing Insights"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Apollo Publishing Limited"
+ },
+ {
+  "DOI": "10.1109/access.2020.3012756",
+  "title": [
+   "Multi-Agent Deep Reinforcement Learning for Trajectory Design and Power Allocation in Multi-UAV Networks"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-4738-5684",
+    "authenticated-orcid": false,
+    "given": "Nan",
+    "family": "Zhao",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Zehua",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yiqiang",
+    "family": "Cheng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Access"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 61,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1117/12.3130059",
+  "title": [
+   "Reinforcement learning-based strip allocation optimization for multi-UAV cooperative coverage"
+  ],
+  "author": [
+   {
+    "given": "Ning",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yijie",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "International Conference on Robots and Multi-Agent Systems (RMAS 2026)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "SPIE"
+ },
+ {
+  "DOI": "10.5220/0012434700003636",
+  "title": [
+   "Multi-Agent Deep Reinforcement Learning for Collaborative Task Scheduling"
+  ],
+  "author": [
+   {
+    "given": "Mali",
+    "family": "Gergely",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Faculty of Mathematics and Computer Science, Babe\u0219-Bolyai University, Kog\u0103lniceanu Street, Cluj-Napoca, Romania, --- Select a Country ---"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 16th International Conference on Agents and Artificial Intelligence"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "SCITEPRESS - Science and Technology Publications"
+ },
+ {
+  "DOI": "10.3390/s25113403",
+  "title": [
+   "Energy-Efficient Multi-Agent Deep Reinforcement Learning Task Offloading and Resource Allocation for UAV Edge Computing"
+  ],
+  "author": [
+   {
+    "given": "Shu",
+    "family": "Xu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "China Nanhu Academy of Electronic and Information Technology, Jiaxing 314001, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qingjie",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "China Nanhu Academy of Electronic and Information Technology, Jiaxing 314001, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chengye",
+    "family": "Gong",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "China Nanhu Academy of Electronic and Information Technology, Jiaxing 314001, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Xupeng",
+    "family": "Wen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "China Nanhu Academy of Electronic and Information Technology, Jiaxing 314001, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "Sensors"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 30,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.3390/app122312181",
+  "title": [
+   "Sequence-to-Sequence Multi-Agent Reinforcement Learning for Multi-UAV Task Planning in 3D Dynamic Environment"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-6763-1972",
+    "authenticated-orcid": false,
+    "given": "Ziwei",
+    "family": "Liu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Communication Engineering, Sun Yat-Sen University, Shenzhen 518107, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Changzhen",
+    "family": "Qiu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Communication Engineering, Sun Yat-Sen University, Shenzhen 518107, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Zhiyong",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Communication Engineering, Sun Yat-Sen University, Shenzhen 518107, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "Applied Sciences"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 18,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/iccea65460.2025.11103142",
+  "title": [
+   "Design of Multi-UAV Task Allocation Algorithm Based on Deep Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Yuxin",
+    "family": "Cui",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Information Science and Technology, Beijing University of Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yan",
+    "family": "Gao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "China Academy of Launch Vehicle Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Dequn",
+    "family": "Zhao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Information Science and Technology, Beijing University of Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     4,
+     25
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 6th International Conference on Computer Engineering and Application (ICCEA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.47297/taposatwsp2633-456915.20260706",
+  "title": [
+   "Multi-Agent Deep Reinforcement Learning in UAV Swarm Formation Control: A Review and Future Challenges"
+  ],
+  "author": [
+   {
+    "given": "He",
+    "family": "Wenchao",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "Theory and Practice of Science and Technology"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "World Scientific Publishing House Ltd"
+ },
+ {
+  "DOI": "10.17721/ait.2025.2.05",
+  "title": [
+   "ROBUST UAV SWARM DECISION-MAKING UNDER UNCERTAINTY VIA COMBINATION OF MULTI-AGENT REINFORCEMENT LEARNING AND HYBRID AUTOMATA"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-9378-9535",
+    "authenticated-orcid": false,
+    "given": "Oleksii",
+    "family": "BYCHKOV",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Taras Shevchenko National University of Kyiv, Kyiv, Ukraine"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0003-0405-0304",
+    "authenticated-orcid": false,
+    "given": "Mykhailo",
+    "family": "VOITOVYCH",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Taras Shevchenko National University of Kyiv, Kyiv, Ukraine"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "Advanced Information Technology"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Taras Shevchenko National University of Kyiv"
+ },
+ {
+  "DOI": "10.1109/iccworkshops53468.2022.9814506",
+  "title": [
+   "Multi-Agent Low-Bias Reinforcement Learning for Resource Allocation in UAV-Assisted Networks"
+  ],
+  "author": [
+   {
+    "given": "Shiyang",
+    "family": "Zhou",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,National Key Laboratory of Science and Technology on Communications,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yufan",
+    "family": "Cheng",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,National Key Laboratory of Science and Technology on Communications,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xia",
+    "family": "Lei",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,National Key Laboratory of Science and Technology on Communications,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     5,
+     16
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 IEEE International Conference on Communications Workshops (ICC Workshops)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.56042/ijms.v50i11.66760",
+  "title": [
+   "Task allocation based multi-agent reinforcement learning for LoRa nodes in gas wellhead monitoring service"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Indian Journal of Geo-Marine Sciences"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "CSIR-National Institute of Science Communication and Policy Research (NIScPR)"
+ },
+ {
+  "DOI": "10.1109/bmsb69102.2026.11761080",
+  "title": [
+   "GCN-Enhanced Heterogeneous Multi-Agent Reinforcement Learning for Multi-UAV Cooperative Task Offloading in Mobile Edge Computing"
+  ],
+  "author": [
+   {
+    "given": "Yang",
+    "family": "Yang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "China Telecom Research Institute",
+      "place": [
+       "Beijing, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hua",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "China Telecom Research Institute",
+      "place": [
+       "Beijing, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.3390/drones10100770",
+  "title": [
+   "Beyond Optimization: A Multi-Agent Systems and Human\u2013Agent Collaboration Perspective on Decentralized Multi-UAV Task Allocation"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-9598-1061",
+    "authenticated-orcid": false,
+    "given": "Feyza M.",
+    "family": "Haf\u0131zo\u011flu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Istanbul Commerce University, Istanbul 34840, T\u00fcrkiye"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0006-2642-4786",
+    "authenticated-orcid": false,
+    "given": "Sinan",
+    "family": "Serbesto\u011flu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Istanbul Commerce University, Istanbul 34840, T\u00fcrkiye"
+     },
+     {
+      "name": "Digital Transformation Coordination Office, Burdur Mehmet Akif Ersoy University, Burdur 15030, T\u00fcrkiye"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "Drones"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/tmc.2024.3403890",
+  "title": [
+   "Joint Trajectory Control, Frequency Allocation, and Routing for UAV Swarm Networks: A Multi-Agent Deep Reinforcement Learning Approach"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-6280-7139",
+    "authenticated-orcid": false,
+    "given": "Muhammad Morshed",
+    "family": "Alam",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Electrical and Electronic Engineering, American International University Bangladesh, Dhaka, Bangladesh"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9175-3400",
+    "authenticated-orcid": false,
+    "given": "Sangman",
+    "family": "Moh",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Chosun University, Gwangju, South Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Transactions on Mobile Computing"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 56,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.3390/drones10060467",
+  "title": [
+   "A Multi-Swarm Dynamic Crow Search Algorithm for Multi-UAV Dynamic Task Allocation"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0002-9406-4226",
+    "authenticated-orcid": false,
+    "given": "Gengsong",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Academy of Military Sciences, Beijing 100091, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yi",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Academy of Military Sciences, Beijing 100091, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qibin",
+    "family": "Zheng",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Academy of Military Sciences, Beijing 100091, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Kun",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Academy of Military Sciences, Beijing 100091, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     18
+    ]
+   ]
+  },
+  "container-title": [
+   "Drones"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 3,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.22214/ijraset.2026.82488",
+  "title": [
+   "A Survey on Agentic AI-Assisted UAV Swarm Systems Using Multi-Agent Deep Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Kamalakshi",
+    "family": "Naganna",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5,
+     31
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal for Research in Applied Science and Engineering Technology"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "International Journal for Research in Applied Science and Engineering Technology"
+ },
+ {
+  "DOI": "10.65521/ijeecs.v14i2.2723",
+  "title": [
+   "Reinforcement Learning-Based Autonomous Multi-Agent Systems for Cooperative Task Allocation and Optimization"
+  ],
+  "author": [
+   {
+    "given": "Thabo",
+    "family": "Khatibullah",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Electrical, Electronics and Computer Systems"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Researcher Connect Innovation and Impact Private Limited and MRI"
+ },
+ {
+  "DOI": "10.1109/raiie65740.2025.11140123",
+  "title": [
+   "PER-MADDPG: Multi-Agent Reinforcement Learning for Coordinated UAV Swarm Performance under Rhythmic Constraints"
+  ],
+  "author": [
+   {
+    "given": "XiaoJing",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Shenyang Urban Construction University,College of Arts and Media,Shenyang,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "CongNa",
+    "family": "Lv",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shenyang Urban Construction University,College of Arts and Media,Shenyang,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "YueMing",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Shenyang Urban Construction University,College of Arts and Media,Shenyang,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 4th International Symposium on Robotics, Artificial Intelligence and Information Engineering (RAIIE)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/ipec61310.2024.00080",
+  "title": [
+   "Task Offloading Based on Multi-agent Reinforcement Learning for UAV-assisted Edge Computing"
+  ],
+  "author": [
+   {
+    "given": "Yao",
+    "family": "Dai",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "CITIC Dicastal Co. Ltd.,Qinhuangdao,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yuan",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Beijing Commsat Technology Development Co., Ltd.,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ting",
+    "family": "Lyu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Science and Technology Beijing,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     4,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 Asia-Pacific Conference on Image Processing, Electronics and Computers (IPEC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icdscnc70670.2026.11746244",
+  "title": [
+   "Explainable Federated Multi-Agent Reinforcement Learning for Secure and Adaptive Routing in UAV Swarm FANETs"
+  ],
+  "author": [
+   {
+    "given": "Anita Dayanand",
+    "family": "Mhatre",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Fr. Conceicao Rodrigues College of Engineering Bandra(W), Datta Meghe College Of Engineeing",
+      "place": [
+       "Thane, India"
+      ],
+      "department": [
+       "Dept. of Computer Engineering"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ashok",
+    "family": "Kanthe",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Fr. Conceicao Rodrigues College of Engineering Bandra(W)",
+      "department": [
+       "Dept. of Computer Engineering"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 2nd International Conference on Distributed Systems, Computer Networks and Cybersecurity (ICDSCNC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icufn69619.2026.11628713",
+  "title": [
+   "Communication-Aware Multi-Agent Reinforcement Learning for Cooperative UAV Swarm Decision-Making in Smart City Surveillance"
+  ],
+  "author": [
+   {
+    "given": "Mingyu",
+    "family": "Shin",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Ajou University",
+      "place": [
+       "Suwon, South Korea"
+      ],
+      "department": [
+       "Dept. of Artificial Intelligence Convergence Network"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Soyi",
+    "family": "Jung",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Ajou University",
+      "place": [
+       "Suwon, South Korea"
+      ],
+      "department": [
+       "Dept. of Electrical and Computer Engineering"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 Seventeenth International Conference on Ubiquitous and Future Networks (ICUFN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/vtc2021-fall52928.2021.9625217",
+  "title": [
+   "Task-oriented Resource Allocation for Mobile Edge Computing with Multi-Agent Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Yue",
+    "family": "Zou",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Fei",
+    "family": "Shen",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Feng",
+    "family": "Yan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Liang",
+    "family": "Tang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 5,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iccar57134.2023.10151768",
+  "title": [
+   "Improving Cooperative Multi-Target Tracking Control for UAV Swarm Using Multi-Agent Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Longfei",
+    "family": "Yue",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Maolong",
+    "family": "Lv",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mengda",
+    "family": "Yan",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Xiaoru",
+    "family": "Zhao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ao",
+    "family": "Wu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Leyan",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jialiang",
+    "family": "Zuo",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Traffic Control and Navigation College, Air Force Engineering University,Xi&#x0027;an,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     4,
+     21
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 9th International Conference on Control, Automation and Robotics (ICCAR)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 9,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iccwamtip68645.2025.11352705",
+  "title": [
+   "Pigeon-Inspired Multi-Agent Reinforcement Learning for UAV Swarm Navigation in Adversarial Environments"
+  ],
+  "author": [
+   {
+    "given": "Chen",
+    "family": "Yuxu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Engineering, University of Electronic Science and Technology of China,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Lu",
+    "family": "Ke",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Engineering, University of Electronic Science and Technology of China,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Hui",
+    "family": "Bei",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Information and Software Engineering, University of Electronic Science and Technology of China,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     19
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 22nd International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.3390/math13223591",
+  "title": [
+   "Multi-UAV Task Allocation Based on Grid-Based Particle Swarm and Genetic Hybrid Algorithm"
+  ],
+  "author": [
+   {
+    "given": "Yuting",
+    "family": "Xiong",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Mathematics and Statistics, Wuhan University of Technology, Wuhan 430070, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Liang",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mathematics and Statistics, Wuhan University of Technology, Wuhan 430070, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "Mathematics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 8,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/iccc68654.2025.11437901",
+  "title": [
+   "Novelty-Driven UAV Swarm Target Search Based on Multi-Agent Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Qun",
+    "family": "Ma",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Science and Technology of China,Hefei,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Huasen",
+    "family": "He",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Science and Technology of China,Hefei,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yunpeng",
+    "family": "Hou",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Institute of Artificial Intelligence,Hefei Comprehensive National Science Center,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Wenke",
+    "family": "Yuan",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Science and Technology of China,Hefei,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yue",
+    "family": "Ren",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Science and Technology of China,Hefei,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jian",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Science and Technology of China,Hefei,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 11th International Conference on Computer and Communications (ICCC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/indiscon58499.2023.10270198",
+  "title": [
+   "Distributed Multi-Agent Deep Reinforcement Learning based Navigation and Control of UAV Swarm for Wildfire Monitoring"
+  ],
+  "author": [
+   {
+    "given": "Adeeba",
+    "family": "Ali",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Aligarh Muslim University,Department of Computer Engineering,Aligarh,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Rashid",
+    "family": "Ali",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Aligarh Muslim University,Department of Computer Engineering,Aligarh,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "M.F.",
+    "family": "Baig",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Aligarh Muslim University,Department of Mechanical Engineering,Aligarh,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     8,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.51483/ijaiml.6.8s.2026.1194-1200",
+  "title": [
+   "Agentic Ai-Based Multi-Agent Reinforcement Learning for Autonomous Task Allocation and Collaborative Decision-Making"
+  ],
+  "author": [
+   {
+    "given": "Dhavalkumar",
+    "family": "Thakar",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mahesh kumar",
+    "family": "Gaddam",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Artificial Intelligence and Machine Learning"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "SvedbergOpen"
+ },
+ {
+  "DOI": "10.1145/3670105.3670168",
+  "title": [
+   "Multi-Task Resource Allocation and Task Offloading via Multi-Agent Deep Reinforcement Learning in Edge-Cloud system"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0009-8614-6070",
+    "authenticated-orcid": false,
+    "given": "Guoqing",
+    "family": "Tian",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics, China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0001-8620-4703",
+    "authenticated-orcid": false,
+    "given": "Xilong",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics, China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-1450-9241",
+    "authenticated-orcid": false,
+    "given": "Xin",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics, China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-8845-1089",
+    "authenticated-orcid": false,
+    "given": "Xiaolin",
+    "family": "Qin",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics, China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     5,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 2024 5th International Conference on Computing, Networks and Internet of Things"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "ACM"
+ },
+ {
+  "DOI": "10.1109/icra57385.2026.11696929",
+  "title": [
+   "HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Lavanya",
+    "family": "Ratnabala",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Skolkovo Institute of Science and Technology",
+      "place": [
+       "Moscow, Russia"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Robinroy",
+    "family": "Peter",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "NeuroFleets (PVT) LTD",
+      "place": [
+       "Jaffna, Sri Lanka"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Aleksey",
+    "family": "Fedoseev",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Skolkovo Institute of Science and Technology",
+      "place": [
+       "Moscow, Russia"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Dzmitry",
+    "family": "Tsetserukou",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Skolkovo Institute of Science and Technology",
+      "place": [
+       "Moscow, Russia"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iccbdai66607.2025.11388993",
+  "title": [
+   "A Cloud Reinforcement Learning Based Multi-UAV Task Allocation Model in Dynamic Uncertain Environment"
+  ],
+  "author": [
+   {
+    "given": "Jiang",
+    "family": "Chen",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "91550 Troops of the Chinese PLA,DaLian,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yinchuan",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology Chongqing University of Posts and Telecommunications,Chongqing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xin",
+    "family": "Huang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "91550 Troops of the Chinese PLA,DaLian,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     21
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE 6th International Conference on Computer, Big Data, Artificial Intelligence (ICCBD+AI)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iisec69317.2026.11418314",
+  "title": [
+   "Adaptive Task Allocation and Data Fusion via Reinforcement Learning in Multi-Agent Drone\u2013Ground Robot Inspection Systems"
+  ],
+  "author": [
+   {
+    "given": "Zeynep",
+    "family": "Sahutoglu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Tarsus University,Department of Electrical &#x0026; Electronics Engineering,Mersin,Turkiye"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Murat",
+    "family": "Bakirci",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Tarsus University,Faculty of Aeronautics and Astronautics,Mersin,Turkiye"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 5th International Informatics and Software Engineering Conference (IISEC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ }
+]

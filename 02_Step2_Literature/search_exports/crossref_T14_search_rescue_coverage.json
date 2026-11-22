@@ -1,0 +1,3022 @@
+[
+ {
+  "DOI": "10.1109/icar58858.2023.10406912",
+  "title": [
+   "Decentralized Multi-UAV Trajectory Task Allocation in Search and Rescue Applications"
+  ],
+  "author": [
+   {
+    "given": "Kasper A. R.",
+    "family": "Gr\u00f8ntved",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Southern Denmark,SDU UAS Center, MMMI"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ulrik P. S.",
+    "family": "Lundquist",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Southern Denmark,SDU UAS Center, MMMI"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Anders Lyhne",
+    "family": "Christensen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Southern Denmark,SDU UAS Center, MMMI"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     12,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 21st International Conference on Advanced Robotics (ICAR)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 11,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/case56687.2023.10260489",
+  "title": [
+   "Decentralized Critical Area Coverage Using Multi-UAV System with Guided Explorations During Floods"
+  ],
+  "author": [
+   {
+    "given": "Armaan",
+    "family": "Garg",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Indian Institute of Technology Ropar,Both the authors are with the Department of Computer Science and Engineering,Punjab,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Shashi Shekhar",
+    "family": "Jha",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Indian Institute of Technology Ropar,Both the authors are with the Department of Computer Science and Engineering,Punjab,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     8,
+     26
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1063/10.0043095",
+  "title": [
+   "Multi-objective algorithm speeds up UAV search-and-rescue"
+  ],
+  "author": [
+   {
+    "given": "Avery",
+    "family": "Thompson",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "Scilight"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "AIP Publishing"
+ },
+ {
+  "DOI": "10.1109/vtc2025-fall65116.2025.11310354",
+  "title": [
+   "PPO-Based Multi-UAV Cooperative Search and Coverage Framework for Forest Fire Rescue Missions"
+  ],
+  "author": [
+   {
+    "given": "Ru",
+    "family": "Jiang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,College of Electronic and Information Engineering,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xiaoqin",
+    "family": "Song",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,College of Electronic and Information Engineering,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Nan",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,College of Electronic and Information Engineering,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Lijuan",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics and Astronautics,College of Electronic and Information Engineering,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     19
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/robio64047.2024.10907496",
+  "title": [
+   "Optimizing Multi-Agent Coverage Path Planning UAV Search and Rescue Missions with Prioritizing Deep Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Julian",
+    "family": "Bialas",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "FH Kufstein - University of Applied Sciences,Faculty of Data Science,Kufstein,Austria,6330"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Mario",
+    "family": "Doeller",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "FH Kufstein - University of Applied Sciences,Kufstein,Austria,6330"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Simone",
+    "family": "Walch",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "FH Kufstein - University of Applied Sciences,Kufstein,Austria,6330"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Michiel J.",
+    "family": "van Veelen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Institute of Mountain Emergency Medicine, Eurac Research,Bolzano,Italy"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Abraham",
+    "family": "Mejia-Aguilar",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Eurac Research,Center for Sensing Solutions,Bolzano,Italy"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     12,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.37394/232033.2024.2.21",
+  "title": [
+   "A Time and Energy Efficient Multi-UAV Coverage Planning for the Search and Rescue Mission under Wind fields"
+  ],
+  "author": [
+   {
+    "given": "Ing-Chau",
+    "family": "Chang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Information Engineering, National Changhua University of Education, Chaunghua County, TAIWAN"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Men-Yi",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Information Engineering, National Changhua University of Education, Chaunghua County, TAIWAN"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yu-Hsuan",
+    "family": "Hsieh",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Information Engineering, National Changhua University of Education, Chaunghua County, TAIWAN"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chin-En",
+    "family": "Yen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Information Engineering, National Changhua University of Education, Chaunghua County, TAIWAN"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Environmental Engineering and Development"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 1,
+  "publisher": "World Scientific and Engineering Academy and Society (WSEAS)"
+ },
+ {
+  "DOI": "10.3390/math10010083",
+  "title": [
+   "Multi-UAV Coverage Path Planning Based on Hexagonal Grid Decomposition in Maritime Search and Rescue"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-1470-5768",
+    "authenticated-orcid": false,
+    "given": "Sung-Won",
+    "family": "Cho",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Maritime Safety and Environmental Research Division, Korea Research Institute of Ships and Ocean Engineering, 32, Yuseong-daero 1312 beon-gil, Yuseong-gu, Daejeon 34103, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jin-Hyoung",
+    "family": "Park",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Maritime Safety and Environmental Research Division, Korea Research Institute of Ships and Ocean Engineering, 32, Yuseong-daero 1312 beon-gil, Yuseong-gu, Daejeon 34103, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hyun-Ji",
+    "family": "Park",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Maritime Safety and Environmental Research Division, Korea Research Institute of Ships and Ocean Engineering, 32, Yuseong-daero 1312 beon-gil, Yuseong-gu, Daejeon 34103, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Seongmin",
+    "family": "Kim",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Software, Korea Aerospace University, 76, Hanggongdaehak-ro, Deogyang-gu, Goyang-si 10540, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     12,
+     27
+    ]
+   ]
+  },
+  "container-title": [
+   "Mathematics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 59,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.3390/electronics15122678",
+  "title": [
+   "FedVPN: A Federated Multi-Modal Perception Framework for Multi-UAV in Mountain Search and Rescue"
+  ],
+  "author": [
+   {
+    "given": "Qi",
+    "family": "Liu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology, Rocket Force University of Engineering, Xi\u2019an 710025, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Daqiao",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology, Rocket Force University of Engineering, Xi\u2019an 710025, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shaopeng",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology, Rocket Force University of Engineering, Xi\u2019an 710025, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     17
+    ]
+   ]
+  },
+  "container-title": [
+   "Electronics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 1,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/imcec46724.2019.8984116",
+  "title": [
+   "Weighted area coverage of maritime joint search and rescue based on multi-agent reinforcement learning"
+  ],
+  "author": [
+   {
+    "given": "Yingying",
+    "family": "Gao",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology,College of Systems Engineering,Changsha,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Guangyin",
+    "family": "Jin",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology,College of Systems Engineering,Changsha,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yu",
+    "family": "Guo",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology,College of Systems Engineering,Changsha,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Guohai",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology,College of Systems Engineering,Changsha,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Qingqing",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology,College of Systems Engineering,Changsha,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Kewei",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National University of Defense Technology,College of Systems Engineering,Changsha,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 IEEE 3rd Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 7,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/gcon69192.2026.11649037",
+  "title": [
+   "Multi-UAV Path Planning for Search and Rescue Operation in Post-disaster Scenario"
+  ],
+  "author": [
+   {
+    "given": "Sayantan",
+    "family": "Chakraborty",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "IIIT Guwahati",
+      "place": [
+       "Guwahati, Assam"
+      ],
+      "department": [
+       "Electronics and Communication Engineering Department"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Surajit",
+    "family": "Panja",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "IIIT Guwahati",
+      "place": [
+       "Guwahati, Assam"
+      ],
+      "department": [
+       "Electronics and Communication Engineering Department"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE Guwahati Subsection Conference (GCON)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icus55513.2022.9987002",
+  "title": [
+   "Coverage Path Planning for SAR-UAV in Search Area Coverage Tasks Based on Deep Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Haiyang",
+    "family": "Lu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Key Laboratory of Intelligent Sensing Technology of CETC Nanjing Research Institute of Electronics Technolog,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yuhao",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Key Laboratory of Intelligent Sensing Technology of CETC Nanjing Research Institute of Electronics Technolog,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Rentuo",
+    "family": "Tao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Key Laboratory of Intelligent Sensing Technology of CETC Nanjing Research Institute of Electronics Technolog,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yawei",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Key Laboratory of Intelligent Sensing Technology of CETC Nanjing Research Institute of Electronics Technolog,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     10,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 IEEE International Conference on Unmanned Systems (ICUS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 15,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1007/s44430-026-00026-4",
+  "title": [
+   "Multi-stage hierarchical multi-agent reinforcement learning for UAV-quadruped completing search and rescue"
+  ],
+  "author": [
+   {
+    "given": "Chuan",
+    "family": "Chen",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shuhan",
+    "family": "Yan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Xinliang",
+    "family": "Zhou",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jiaping",
+    "family": "Xiao",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     13
+    ]
+   ]
+  },
+  "container-title": [
+   "Discover Robotics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 2,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1093/jcde/qwaf031",
+  "title": [
+   "Multi-UAV adaptive cooperative coverage search method based on area dynamic sensing"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0008-0410-8605",
+    "authenticated-orcid": false,
+    "given": "Junhua",
+    "family": "Cao",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Marine Science and Technology, Northwestern Polytechnical University , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     },
+     {
+      "name": "National Key Laboratory of Underwater Information Processing and Control , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yintao",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Marine Science and Technology, Northwestern Polytechnical University , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     },
+     {
+      "name": "National Key Laboratory of Underwater Information Processing and Control , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ke",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Electronic Engineering, Shantou University , Shantou, 515063 Guangdong ,",
+      "place": [
+       "China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yinglin",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Marine Science and Technology, Northwestern Polytechnical University , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     },
+     {
+      "name": "National Key Laboratory of Underwater Information Processing and Control , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-1418-4317",
+    "authenticated-orcid": false,
+    "given": "Qi",
+    "family": "Sun",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Marine Science and Technology, Northwestern Polytechnical University , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     },
+     {
+      "name": "National Key Laboratory of Underwater Information Processing and Control , Xi\u2019an, 710072 Shaanxi ,",
+      "place": [
+       "China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     3,
+     13
+    ]
+   ]
+  },
+  "container-title": [
+   "Journal of Computational Design and Engineering"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 12,
+  "publisher": "Oxford University Press (OUP)"
+ },
+ {
+  "DOI": "10.1109/ssrr53300.2021.9597856",
+  "title": [
+   "A Decentralized Asynchronous Collaborative Genetic Algorithm for Heterogeneous Multi-agent Search and Rescue Problems"
+  ],
+  "author": [
+   {
+    "given": "Martin",
+    "family": "Pallin",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jayedur",
+    "family": "Rashid",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Petter",
+    "family": "Ogren",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     25
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 9,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/access.2026.3734747",
+  "title": [
+   "A Review of Multi-Agent Coordination Strategies for Multi-Role UAV Swarms in Search and Rescue"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0004-3189-4825",
+    "authenticated-orcid": false,
+    "given": "Pramuditha",
+    "family": "Vithanaarachchi",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Informatics Institute of Technology",
+      "place": [
+       "Colombo, Sri Lanka"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0005-4438-6026",
+    "authenticated-orcid": false,
+    "given": "Janith",
+    "family": "Prabhanuka",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Informatics Institute of Technology",
+      "place": [
+       "Colombo, Sri Lanka"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0002-8651-3052",
+    "authenticated-orcid": false,
+    "given": "Nipuna",
+    "family": "Senanayake",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Informatics Institute of Technology",
+      "place": [
+       "Colombo, Sri Lanka"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-0145-0866",
+    "authenticated-orcid": false,
+    "given": "Rashmi",
+    "family": "Ratnayake",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University College",
+      "place": [
+       "Dublin, Ireland"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Access"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1109/case69030.2026.11704335",
+  "title": [
+   "Safe Decentralized Multi-UAV Dynamic Target Search Under Energy Constraints via Multi-Agent Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Jiaju",
+    "family": "Qi",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Research Institute of Xi'an Kunlun Industry Group Co., Ltd.",
+      "place": [
+       "Xi'an, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Baoyu",
+    "family": "Zhai",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Research Institute of Xi'an Kunlun Industry Group Co., Ltd.",
+      "place": [
+       "Xi'an, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shaohua",
+    "family": "Shi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Research Institute of Xi'an Kunlun Industry Group Co., Ltd.",
+      "place": [
+       "Xi'an, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icuas.2019.8798354",
+  "title": [
+   "Multi-UAV based Autonomous Wilderness Search and Rescue using Target Iso-Probability Curves"
+  ],
+  "author": [
+   {
+    "given": "Zendai",
+    "family": "Kashino",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Goldie",
+    "family": "Nejat",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Beno",
+    "family": "Benhabib",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 International Conference on Unmanned Aircraft Systems (ICUAS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 31,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/ccwc47524.2020.9031197",
+  "title": [
+   "Area-Optimized UAV Swarm Network for Search and Rescue Operations"
+  ],
+  "author": [
+   {
+    "given": "Laik",
+    "family": "Ruetten",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Paulo Alexandre",
+    "family": "Regis",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "David",
+    "family": "Feil-Seifer",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shamik",
+    "family": "Sengupta",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 10th Annual Computing and Communication Workshop and Conference (CCWC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 57,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/apcap59480.2023.10469852",
+  "title": [
+   "Multi-UAV Distributed Area Coverage Target Search Method Based on Comprehensive Situation Maps"
+  ],
+  "author": [
+   {
+    "given": "Qian.",
+    "family": "Yu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Harbin Engineering University,IEEE APCAP 2023 College of Information and Communication Engineering,Harbin,China,150001"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yibing",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Harbin Engineering University,IEEE APCAP 2023 College of Information and Communication Engineering,Harbin,China,150001"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Qian",
+    "family": "Sun",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Harbin Engineering University,IEEE APCAP 2023 College of Information and Communication Engineering,Harbin,China,150001"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     11,
+     22
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE 11th Asia-Pacific Conference on Antennas and Propagation (APCAP)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/ccnc51644.2023.10060414",
+  "title": [
+   "Multi-UAV Assisted Network Coverage Optimization for Rescue Operations using Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "given": "Omar Sami",
+    "family": "Oubbati",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University Gustave Eiffel,LIGM CNRS-UMR 8049,Champs-sur-Marne,France,77420"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hakim",
+    "family": "Badis",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University Gustave Eiffel,LIGM CNRS-UMR 8049,Champs-sur-Marne,France,77420"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Abderrezak",
+    "family": "Rachedi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University Gustave Eiffel,LIGM CNRS-UMR 8049,Champs-sur-Marne,France,77420"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Abderrahmane",
+    "family": "Lakas",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "College of Information Technology, United Arab Emirates University,Al Ain,UAE,PO Box 17551"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Pascal",
+    "family": "Lorenz",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Haute Alsace,IRIMAS Laboratory,Colmar,France"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE 20th Consumer Communications &amp; Networking Conference (CCNC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 93,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/rast57548.2023.10198022",
+  "title": [
+   "Post-Disaster Area Monitoring with Swarm UAV Systems for Effective Search and Rescue"
+  ],
+  "author": [
+   {
+    "given": "Murat",
+    "family": "Bakirci",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Tarsus University,Unmanned/Intelligent Systems Lab, Faculty of Aeronautics and Astronautics,Mersin,T&#x00FC;rkiye"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Muhammed Mirac",
+    "family": "Ozer",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Tarsus University,Unmanned/Intelligent Systems Lab, Faculty of Aeronautics and Astronautics,Mersin,T&#x00FC;rkiye"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     6,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 10th International Conference on Recent Advances in Air and Space Technologies (RAST)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 12,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.51408/1963-0142",
+  "title": [
+   "Deterministic Area Coverage by UAV Swarms via Multi-Eulerian Rotor-Router Walks"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0001-8507-2438",
+    "authenticated-orcid": false,
+    "given": "Vahagn",
+    "family": "Poghosyan",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Institute for Informatics and Automation Problems of NAS RA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Mathematical Problems of Computer Science"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "National Academy of Sciences of the Republic of Armenia"
+ },
+ {
+  "DOI": "10.1109/ssrr68451.2025.11391322",
+  "title": [
+   "Evaluating the Effect of Search Strategies in a Hierarchically Decentralized Multi-Robot Task Allocation System"
+  ],
+  "author": [
+   {
+    "given": "Sujeet",
+    "family": "Kashid",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Cincinnati,Department of Mechanical and Materials Engineering,Cincinnati,Ohio,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Ashwin Dharmesh",
+    "family": "Kumat",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Cincinnati,Department of Mechanical and Materials Engineering,Cincinnati,Ohio,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     29
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE International Symposium on Safety Security Rescue Robotics (SSRR)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.3390/drones10090648",
+  "title": [
+   "Directional Pheromone Gradient Observations for Decentralized Multi-Agent Reinforcement Learning in Swarm Drone Search and Rescue"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0002-8363-6081",
+    "authenticated-orcid": false,
+    "given": "Peter",
+    "family": "Yacoub",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Artificial Intelligence Research Center (AIRC), College of Engineering and Information Technology, Ajman University, Ajman P.O. Box 346, United Arab Emirates"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0006-8616-7144",
+    "authenticated-orcid": false,
+    "given": "Mohamed Malek",
+    "family": "Kaouach",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Artificial Intelligence Research Center (AIRC), College of Engineering and Information Technology, Ajman University, Ajman P.O. Box 346, United Arab Emirates"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-8006-7699",
+    "authenticated-orcid": false,
+    "given": "Esraa",
+    "family": "Khatab",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mathematics and Computer Science, Heriot-Watt University, Dubai P.O. Box 38103, United Arab Emirates"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-7613-2064",
+    "authenticated-orcid": false,
+    "given": "Omar",
+    "family": "Shalash",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Artificial Intelligence Research Center (AIRC), College of Engineering and Information Technology, Ajman University, Ajman P.O. Box 346, United Arab Emirates"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     26
+    ]
+   ]
+  },
+  "container-title": [
+   "Drones"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/icuas65942.2025.11007932",
+  "title": [
+   "Multi-UAV Planning in Search and Rescue Missions using Optimal Search Effort Allocation"
+  ],
+  "author": [
+   {
+    "given": "Antonio",
+    "family": "Sojo",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Seville,GRVC Robotics Lab,Seville,Spain,41092"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Alejandro",
+    "family": "Perea",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Seville,GRVC Robotics Lab,Seville,Spain,41092"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Marco",
+    "family": "Castell",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Seville,GRVC Robotics Lab,Seville,Spain,41092"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Juan",
+    "family": "Perrela",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Alpha Unmanned Systems,Spain"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Ivan",
+    "family": "Maza",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Seville,GRVC Robotics Lab,Seville,Spain,41092"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Alvaro",
+    "family": "Caballero",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Seville,GRVC Robotics Lab,Seville,Spain,41092"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Anibal",
+    "family": "Ollero",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Seville,GRVC Robotics Lab,Seville,Spain,41092"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 International Conference on Unmanned Aircraft Systems (ICUAS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.14569/ijacsa.2024.0151050",
+  "title": [
+   "Optimization of 3D Coverage Layout for Multi-UAV Collaborative Lighting in Emergency Rescue Operations"
+  ],
+  "author": [
+   {
+    "given": "Dan",
+    "family": "Jiang",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Rui",
+    "family": "Yan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Advanced Computer Science and Applications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 1,
+  "publisher": "The Science and Information Organization"
+ },
+ {
+  "DOI": "10.1007/s10846-024-02167-3",
+  "title": [
+   "A Novel MPC Formulation for Dynamic Target Tracking with Increased Area Coverage for Search-and-Rescue Robots"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-5421-2824",
+    "authenticated-orcid": false,
+    "given": "Mirko",
+    "family": "Baglioni",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Anahita",
+    "family": "Jamshidnejad",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     9,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "Journal of Intelligent &amp; Robotic Systems"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 14,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1109/cogsima49017.2020.9215994",
+  "title": [
+   "Heterogeneous UAV Multi-Role Swarming Behaviors for Search and Rescue"
+  ],
+  "author": [
+   {
+    "given": "Ross",
+    "family": "Arnold",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jonathan",
+    "family": "Jablonski",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Benjamin",
+    "family": "Abruzzo",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Elizabeth",
+    "family": "Mezzacappa",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 50,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1088/1742-6596/2187/1/012047",
+  "title": [
+   "Spatio-temporal coverage planning algorithm for multi-UAV and multi-sensor cooperative search"
+  ],
+  "author": [
+   {
+    "given": "Deyan",
+    "family": "Zheng",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Chunhui",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Lizhen",
+    "family": "Huang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     2,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Journal of Physics: Conference Series"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IOP Publishing"
+ },
+ {
+  "DOI": "10.3390/s21072400",
+  "title": [
+   "Multi-UAV Area Coverage Based on Relative Localization: Algorithms and Optimal UAV Placement"
+  ],
+  "author": [
+   {
+    "given": "Ziyong",
+    "family": "Zhang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "The Guangdong Province Key Laboratory of Intelligent Decision and Cooperative Control, School of Automation, Guangdong University of Technology, Guangzhou 510006, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Xiaoling",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "The Guangdong Province Key Laboratory of Intelligent Decision and Cooperative Control, School of Automation, Guangdong University of Technology, Guangzhou 510006, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-7833-1876",
+    "authenticated-orcid": false,
+    "given": "Jinqiang",
+    "family": "Cui",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Peng Cheng Laboratory, Shenzhen 518055, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-8513-5013",
+    "authenticated-orcid": false,
+    "given": "Wei",
+    "family": "Meng",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "The Guangdong Province Key Laboratory of Intelligent Decision and Cooperative Control, School of Automation, Guangdong University of Technology, Guangzhou 510006, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     3,
+     31
+    ]
+   ]
+  },
+  "container-title": [
+   "Sensors"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 16,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1016/j.cor.2024.106822",
+  "title": [
+   "An algorithm with exact bounds for coverage path planning in UAV-based search and rescue under windy conditions"
+  ],
+  "author": [
+   {
+    "given": "Sina",
+    "family": "Kazemdehbashi",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-3256-9336",
+    "authenticated-orcid": false,
+    "given": "Yanchao",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Computers &amp; Operations Research"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 17,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1145/3828836.3828911",
+  "title": [
+   "Research on UAV Search and Rescue Coverage Path Planning Based on Deep Reinforcement Learning"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-7747-5141",
+    "authenticated-orcid": false,
+    "given": "Hu",
+    "family": "Yuan",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Air Force Engineering University, Xi'an, Shaanxi, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0007-9888-5802",
+    "authenticated-orcid": false,
+    "given": "Shengkai",
+    "family": "Yan",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Force Engineering University, Xi'an, Shaanxi, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0006-3189-773X",
+    "authenticated-orcid": false,
+    "given": "Zhuzhi",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Force Engineering University, Xi'an, Shaanxi, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-2064-2265",
+    "authenticated-orcid": false,
+    "given": "Gaocheng",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Air Force Engineering University, Xi'an, Shaanxi, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     25
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 2026 6th International Conference on Automation Control, Algorithm and Intelligent Bionics"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "ACM"
+ },
+ {
+  "DOI": "10.1109/ccdc.2019.8833382",
+  "title": [
+   "Coverage Flight Path Planning for Multi-rotor UAV in Convex Polygon Area"
+  ],
+  "author": [
+   {
+    "given": "Zhao",
+    "family": "Kang",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Haifeng",
+    "family": "Ling",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Tao",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Hongchuan",
+    "family": "Luo",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 Chinese Control And Decision Conference (CCDC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 9,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.adhoc.2024.103520",
+  "title": [
+   "Multi-objective path planning for multi-UAV connectivity and area coverage"
+  ],
+  "author": [
+   {
+    "given": "\u0130slam",
+    "family": "G\u00fcven",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-2983-1978",
+    "authenticated-orcid": false,
+    "given": "Ev\u015fen",
+    "family": "Yanmaz",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "Ad Hoc Networks"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 48,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1109/ucom59132.2023.10257649",
+  "title": [
+   "Multi-UAV Maritime Search and Rescue with DNN Inference Acceleration"
+  ],
+  "author": [
+   {
+    "given": "Tingting",
+    "family": "Yang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Navigation College, Dalian Maritime University,Peng Cheng Laboratory,Dalian,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Hongjian",
+    "family": "He",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Navigation College, Dalian Maritime University,Dalian,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Lingzheng",
+    "family": "Kong",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School Of Cyber Science and Engineering, Southeast University,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     7,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 International Conference on Ubiquitous Communication (Ucom)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.adhoc.2022.103018",
+  "title": [
+   "Joint or decoupled optimization: Multi-UAV path planning for search and rescue"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-2983-1978",
+    "authenticated-orcid": false,
+    "given": "Ev\u015fen",
+    "family": "Yanmaz",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Ad Hoc Networks"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 62,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.3390/drones10100786",
+  "title": [
+   "SGPE-S: Evolution of Interpretable Policies for Decentralized Multi-UAV Coverage in Communication- and GNSS-Denied Environments"
+  ],
+  "author": [
+   {
+    "given": "Liwen",
+    "family": "Guo",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Mechatronical Engineering, Beijing Institute of Technology, Beijing 100081, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     },
+     {
+      "role": "methodology",
+      "vocabulary": "credit"
+     },
+     {
+      "role": "conceptualization",
+      "vocabulary": "credit"
+     }
+    ]
+   },
+   {
+    "given": "Xiyu",
+    "family": "Jia",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mechatronical Engineering, Beijing Institute of Technology, Beijing 100081, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     },
+     {
+      "role": "resources",
+      "vocabulary": "credit"
+     },
+     {
+      "role": "data-curation",
+      "vocabulary": "credit"
+     }
+    ]
+   },
+   {
+    "given": "Jun",
+    "family": "Wen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mechatronical Engineering, Beijing Institute of Technology, Beijing 100081, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     },
+     {
+      "role": "methodology",
+      "vocabulary": "credit"
+     },
+     {
+      "role": "conceptualization",
+      "vocabulary": "credit"
+     }
+    ]
+   },
+   {
+    "given": "Qiang",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mechatronical Engineering, Beijing Institute of Technology, Beijing 100081, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     },
+     {
+      "role": "validation",
+      "vocabulary": "credit"
+     },
+     {
+      "role": "formal-analysis",
+      "vocabulary": "credit"
+     }
+    ]
+   },
+   {
+    "given": "Wei",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mechatronical Engineering, Beijing Institute of Technology, Beijing 100081, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     },
+     {
+      "role": "data-curation",
+      "vocabulary": "credit"
+     },
+     {
+      "role": "validation",
+      "vocabulary": "credit"
+     }
+    ]
+   },
+   {
+    "given": "Feng",
+    "family": "Ma",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Mechatronical Engineering, Beijing Institute of Technology, Beijing 100081, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     },
+     {
+      "role": "resources",
+      "vocabulary": "credit"
+     },
+     {
+      "role": "data-curation",
+      "vocabulary": "credit"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     19
+    ]
+   ]
+  },
+  "container-title": [
+   "Drones"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/cec60901.2024.10611984",
+  "title": [
+   "Free-Form Coverage Path Planning of Quadcopter Swarms for Search and Rescue Missions Using Multi-Objective Optimization"
+  ],
+  "author": [
+   {
+    "given": "Lukas",
+    "family": "Bostelmann-Arp",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Otto von Guericke University,Faculty of Computer Science,Magdeburg,Germany"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Christoph",
+    "family": "Steup",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Otto von Guericke University,Faculty of Computer Science,Magdeburg,Germany"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Sanaz",
+    "family": "Mostaghim",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Otto von Guericke University,Faculty of Computer Science,Magdeburg,Germany"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     6,
+     30
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 IEEE Congress on Evolutionary Computation (CEC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.47297/taposatwsp2633-456945.20250608",
+  "title": [
+   "Research on Ground Wide-Area Network Communication Coverage Method Based on Multi-UAV Swarm"
+  ],
+  "author": [
+   {
+    "given": "Zhu",
+    "family": "Xingyu",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title": [
+   "Theory and Practice of Science and Technology"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "World Scientific Publishing House Ltd"
+ },
+ {
+  "DOI": "10.1109/icarm54641.2022.9959275",
+  "title": [
+   "An Adaptive Multi-UAV Area Coverage Method"
+  ],
+  "author": [
+   {
+    "given": "Shiqi",
+    "family": "Zheng",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Southeast University,Nanjing Center for Applied Mathematics, School of Automation, Key Laboratory of Measurement and Control of CSE Ministry of Education,Nanjing,China,210018"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xinde",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Southeast University,Nanjing Center for Applied Mathematics, School of Automation, Key Laboratory of Measurement and Control of CSE Ministry of Education,Nanjing,China,210018"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     7,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 International Conference on Advanced Robotics and Mechatronics (ICARM)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ }
+]

@@ -1,0 +1,2652 @@
+[
+ {
+  "DOI": "10.1109/idea49133.2020.9170718",
+  "title": [
+   "Retracted: Routing and Optimization Schemes in Flying Ad Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "Mayank",
+    "family": "Namdev",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "UIT RGPV,Bhopal,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sachin",
+    "family": "Goyal",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "UIT RGPV,Bhopal,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ratish",
+    "family": "Agrawal",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "UIT RGPV,Bhopal,India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "2nd International Conference on Data, Engineering and Applications (IDEA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/idea49133.2020.10702896",
+  "title": [
+   "Retraction Notice: Routing and Optimization Schemes in Flying Ad Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "Mayank",
+    "family": "Namdev",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "UIT RGPV",
+      "place": [
+       "Bhopal, India"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sachin",
+    "family": "Goyal",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "UIT RGPV",
+      "place": [
+       "Bhopal, India"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ratish",
+    "family": "Agrawal",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "UIT RGPV",
+      "place": [
+       "Bhopal, India"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "2nd International Conference on Data, Engineering and Applications (IDEA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/r10-htc47129.2019.9042457",
+  "title": [
+   "Enhancing Packet Delivery Rate in Flying Ad-Hoc Network (FANET) Routing"
+  ],
+  "author": [
+   {
+    "given": "Subhrapratim",
+    "family": "Nath",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Jadavpur University,Dept. of CSE,Kolkata,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Indrajit",
+    "family": "Das",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Meghnad Saha Institute of Technology,Dept. of IT,Kolkata,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Sanjoy",
+    "family": "Roy",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Meghnad Saha Institute of Technology,Dept. of IT,Kolkata,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Abir",
+    "family": "Jana",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Jadavpur University,Dept. of ETCE,Kolkata,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jamuna",
+    "family": "Kanta Sing",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Jadavpur University,Dept. of CSE,Kolkata,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Subir",
+    "family": "Kumar Sarkar",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Jadavpur University,Dept. of ETCE,Kolkata,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 IEEE R10 Humanitarian Technology Conference (R10-HTC)(47129)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1166/jctn.2020.8932",
+  "title": [
+   "Flying Ad-Hoc Network (FANET): Challenges and Routing Protocols"
+  ],
+  "author": [
+   {
+    "given": "Manjit",
+    "family": "Kaur",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Research Scholar, Department of Computer Science and Engineering, Lovely Professional University, Phagwara 144411, Punjab India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sahil",
+    "family": "Verma",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Engineering, Lovely Professional University, Phagwara 144411, Punjab, India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "family": "Kavita",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Engineering, Lovely Professional University, Phagwara 144411, Punjab, India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Journal of Computational and Theoretical Nanoscience"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 44,
+  "publisher": "American Scientific Publishers"
+ },
+ {
+  "DOI": "10.36948/ijfmr.2025.v07i06.63363",
+  "title": [
+   "Flying Ad-hoc Network (FANET) Technology Innovations and Challenges: A Review"
+  ],
+  "author": [
+   {
+    "given": "Meet",
+    "family": "Patheja",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Shivank",
+    "family": "Soni",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal For Multidisciplinary Research"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "International Journal for Multidisciplinary Research (IJFMR)"
+ },
+ {
+  "DOI": "10.1109/punecon55413.2022.10014779",
+  "title": [
+   "Flying Ad Hoc Network (FANET): Opportunities, Trending Applications and Simulators"
+  ],
+  "author": [
+   {
+    "given": "Ashish Singh",
+    "family": "Parihar",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "National Institute of Technology, NIT,Department of Computer Science and Engineering,Jote,Arunachal Pradesh,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Swarnendu Kumar",
+    "family": "Chakraborty",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National Institute of Technology, NIT,Department of Computer Science and Engineering,Jote,Arunachal Pradesh,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     12,
+     15
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 IEEE Pune Section International Conference (PuneCon)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 10,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/access.2020.2981531",
+  "title": [
+   "Smart IoT Control-Based Nature Inspired Energy Efficient Routing Protocol for Flying Ad Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "Inam Ullah",
+    "family": "Khan",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9727-2931",
+    "authenticated-orcid": false,
+    "given": "Ijaz Mansoor",
+    "family": "Qureshi",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Muhammad Adnan",
+    "family": "Aziz",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tanweer Ahmad",
+    "family": "Cheema",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-3340-1161",
+    "authenticated-orcid": false,
+    "given": "Syed Bilal Hussain",
+    "family": "Shah",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Access"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 168,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.32604/cmc.2023.040628",
+  "title": [
+   "LSTDA: Link Stability and Transmission Delay Aware Routing Mechanism for Flying Ad-Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "Farman",
+    "family": "Ali",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Khalid",
+    "family": "Zaman",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Babar",
+    "family": "Shah",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tariq",
+    "family": "Hussain",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Habib",
+    "family": "Ullah",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Altaf",
+    "family": "Hussain",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Daehan",
+    "family": "Kwak",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "container-title": [
+   "Computers, Materials &amp; Continua"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 3,
+  "publisher": "Tech Science Press"
+ },
+ {
+  "DOI": "10.1016/j.matpr.2021.02.673",
+  "title": [
+   "WITHDRAWN: Implementation of FANET energy efficient AODV routing protocols for flying ad hoc networks [FEEAODV]"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-8393-9376",
+    "authenticated-orcid": false,
+    "given": "K.",
+    "family": "Mariyappan",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mary",
+    "family": "Subaja Christo",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Rashmita",
+    "family": "Khilar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     3
+    ]
+   ]
+  },
+  "container-title": [
+   "Materials Today: Proceedings"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 14,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.3991/ijim.v16i04.28235",
+  "title": [
+   "Flying Ad hoc Networks (FANET): Performance Evaluation of Topology Based Routing Protocols"
+  ],
+  "author": [
+   {
+    "given": "Ali Hussein",
+    "family": "Wheeb",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     2,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Interactive Mobile Technologies (iJIM)"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 39,
+  "publisher": "International Association of Online Engineering (IAOE)"
+ },
+ {
+  "DOI": "10.4218/etrij.2024-0298",
+  "title": [
+   "QLR\u2010FANET: A Q\u2010learning and rate control\u2010based routing protocol for flying ad hoc network"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0007-5955-9334",
+    "authenticated-orcid": false,
+    "given": "Mai",
+    "family": "Cuong Tho",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Faculty of Information Technology University of Sciences, Hue University  Hue Vietnam"
+     },
+     {
+      "name": "Faculty of Information Technology Nha Trang University  Nha Trang Vietnam"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Nguyen",
+    "family": "Thi Huong Ly",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Faculty of Information Technology Nha Trang University  Nha Trang Vietnam"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-0951-4046",
+    "authenticated-orcid": false,
+    "given": "Le Huu",
+    "family": "Binh",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Faculty of Information Technology University of Sciences, Hue University  Hue Vietnam"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tu T.",
+    "family": "Vo",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Faculty of Information Technology University of Sciences, Hue University  Hue Vietnam"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     3,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "ETRI Journal"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 2,
+  "publisher": "Wiley"
+ },
+ {
+  "DOI": "10.1109/comtech.2019.8737798",
+  "title": [
+   "Dual-Radio Dual-Band Configuration for Flexible Communication in Flying Ad-hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "Muhammad Asghar",
+    "family": "Khan",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Abdullah",
+    "family": "Khalid",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Fahimullah",
+    "family": "Khanzada",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     3
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 International Conference on Communication Technologies (ComTech)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.14201/adcaij2021104321337",
+  "title": [
+   "Taking FANET to Next Level"
+  ],
+  "author": [
+   {
+    "given": "Altaf",
+    "family": "Hussain",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Habib Ullah",
+    "family": "Khan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shah",
+    "family": "Nazir",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ijaz",
+    "family": "Ullah",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tariq",
+    "family": "Hussain",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     2,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 4,
+  "publisher": "Ediciones Universidad de Salamanca"
+ },
+ {
+  "DOI": "10.22247/ijcna/2024/23",
+  "title": [
+   "Multiple Route Selection for Avoiding Single Point Failure in Flying Ad Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "H.",
+    "family": "Shaleena",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "K.",
+    "family": "Sumangala",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     6,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Computer Networks and Applications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "EverScience Publications"
+ },
+ {
+  "DOI": "10.3390/drones3010016",
+  "title": [
+   "A Hybrid Communication Scheme for Efficient and Low-Cost Deployment of Future Flying Ad-Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-1351-898X",
+    "authenticated-orcid": false,
+    "given": "Muhammad",
+    "family": "Khan",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Electronic Engineering, ISRA University, Islamabad 44000, Pakistan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ijaz",
+    "family": "Qureshi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Electrical Engineering, AIR University, Islamabad 44000, Pakistan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Fahimullah",
+    "family": "Khanzada",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "National Physical and Standards Laboratory (NPSL), Islamabad 44000, Pakistan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     2,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Drones"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 130,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/autocom60220.2024.10486168",
+  "title": [
+   "A Survey on QoS in Flying Ad Hoc Network based on Fuzzy Inference Based Routing Protocol"
+  ],
+  "author": [
+   {
+    "given": "Parag",
+    "family": "Sohoni",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Rabindranath Tagore University,Computer Science &#x0026; Engineering,Bhopal,M.P,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Shiv Shakti",
+    "family": "Shrivastava",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Rabindranath Tagore University,Computer Science &#x0026; Engineering,Bhopal,M.P,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Shailja",
+    "family": "Sharma",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Rabindranath Tagore University,Computer Science &#x0026; Engineering,Bhopal,M.P,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     3,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 International Conference on Automation and Computation (AUTOCOM)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1007/s11036-022-02063-w",
+  "title": [
+   "Retraction Note: Multi Information Amount Movement Aware- Routing in FANET: Flying Ad-hoc Networks"
+  ],
+  "author": [
+   {
+    "given": "Sheryl",
+    "family": "Radley",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Cynthia J.",
+    "family": "Sybi",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "K.",
+    "family": "Premkumar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "Mobile Networks and Applications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1007/s11036-019-01395-4",
+  "title": [
+   "RETRACTED ARTICLE: Multi Information Amount Movement Aware- Routing in FANET: Flying Ad-hoc Networks"
+  ],
+  "author": [
+   {
+    "given": "Sheryl",
+    "family": "Radley",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Cynthia J.",
+    "family": "Sybi",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "K.",
+    "family": "Premkumar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     11,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "Mobile Networks and Applications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 5,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.54216/ijwac.100102",
+  "title": [
+   "Trust-Aware Early Detection of Grey-Hole Behaviour in Flying Ad Hoc Wireless Networks: A Data-Driven Study Using Recent FANET Traces"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Wireless and Ad Hoc Communication"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "American Scientific Publishing Group (ASPG) LLC"
+ },
+ {
+  "DOI": "10.1109/nana.2019.00032",
+  "title": [
+   "Mobility-Aware Gradient Routing Algorithm for Flying Ad hoc Networks"
+  ],
+  "author": [
+   {
+    "given": "Jun",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 International Conference on Networking and Network Applications (NaNA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.3390/math10163017",
+  "title": [
+   "Reinforcement Learning-Based Routing Protocols in Flying Ad Hoc Networks (FANET): A Review"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-2485-1494",
+    "authenticated-orcid": false,
+    "given": "Jan",
+    "family": "Lansky",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Mathematics, Faculty of Economic Studies, University of Finance and Administration, 101 00 Prague, Czech Republic"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-7905-7306",
+    "authenticated-orcid": false,
+    "given": "Saqib",
+    "family": "Ali",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Information Systems, College of Economics and Political Science, Sultan Qaboos University, Al Khoudh, Muscat P.C.123, Oman"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Amir Masoud",
+    "family": "Rahmani",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Future Technology Research Center, National Yunlin University of Science and Technology, Yunlin, Douliou 64002, Taiwan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mohammad Sadegh",
+    "family": "Yousefpoor",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Dezful Branch, Islamic Azad University, Dezful 5716963896, Iran"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Efat",
+    "family": "Yousefpoor",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Dezful Branch, Islamic Azad University, Dezful 5716963896, Iran"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-6220-0225",
+    "authenticated-orcid": false,
+    "given": "Faheem",
+    "family": "Khan",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Gachon University, Seongnam 13120, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-1088-4551",
+    "authenticated-orcid": false,
+    "given": "Mehdi",
+    "family": "Hosseinzadeh",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Mental Health Research Center, Psychosocial Health Research Institute, Iran University of Medical Sciences, Tehran 1449614535, Iran"
+     },
+     {
+      "name": "Computer Science, University of Human Development, Sulaymaniyah 0778-6, Iraq"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     8,
+     22
+    ]
+   ]
+  },
+  "container-title": [
+   "Mathematics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 89,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1007/s11277-021-08515-y",
+  "title": [
+   "An Optimized Communication Scheme for Energy Efficient and Secure Flying Ad-hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-4804-0242",
+    "authenticated-orcid": false,
+    "given": "Mayank",
+    "family": "Namdev",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sachin",
+    "family": "Goyal",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ratish",
+    "family": "Agarwal",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     4,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "Wireless Personal Communications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 41,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1109/iccnea57056.2022.00053",
+  "title": [
+   "An Optimization Method of Dynamic Source Routing Protocol in Flying Ad Hoc Network"
+  ],
+  "author": [
+   {
+    "given": "Bochao",
+    "family": "Shang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Xi&#x2019;an Technological University,School of Computer Science and Engineering,Xi&#x2019;an,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xiangyang",
+    "family": "Liang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Xi&#x2019;an Technological University,School of Computer Science and Engineering,Xi&#x2019;an,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 International Conference on Computer Network, Electronic and Automation (ICCNEA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icdsns58469.2023.10245911",
+  "title": [
+   "Geolocation Based Optimal Load Balanced Clustering And Hybrid Routing In Large Scale Flying Ad Hoc Network"
+  ],
+  "author": [
+   {
+    "given": "Ashu",
+    "family": "Katyal",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Chitkara University Institute of Engineering and Technology,Centre for Interdisciplinary Research in Business and Technology,Punjab,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     7,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 International Conference on Data Science and Network Security (ICDSNS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/idea49133.2020.9170667",
+  "title": [
+   "Cuttlefish Optimization based Clustering Approach (COCA) to improve the Quality of Service (QoS) for Flying Ad-Hoc Network (FANET)"
+  ],
+  "author": [
+   {
+    "given": "Ankur",
+    "family": "Pandey",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Piyush Kumar",
+    "family": "Shukla",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ratish",
+    "family": "Agrawal",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "2nd International Conference on Data, Engineering and Applications (IDEA)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.aej.2024.09.032",
+  "title": [
+   "Routing protocols strategies for flying Ad-Hoc network (FANET): Review, taxonomy, and open research issues"
+  ],
+  "author": [
+   {
+    "given": "Mohammed Jamal",
+    "family": "Almansor",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Norashidah Md",
+    "family": "Din",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mohd Zafri",
+    "family": "Baharuddin",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-1438-7018",
+    "authenticated-orcid": false,
+    "given": "Maode",
+    "family": "Ma",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Huda Mohammed",
+    "family": "Alsayednoor",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mahmood A.",
+    "family": "Al-Shareeda",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ahmed Jasim",
+    "family": "Al-asadi",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "Alexandria Engineering Journal"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 59,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.54692/lgurjcsit.2019.030277",
+  "title": [
+   "Flying Ad Hoc network (FANET) Communication between UAV's"
+  ],
+  "author": [
+   {
+    "family": "Saman Abdi",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     6,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "Lahore Garrison University Research Journal of Computer Science and Information Technology"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Lahore Garrison University"
+ },
+ {
+  "DOI": "10.1007/s00500-023-09498-7",
+  "title": [
+   "IHBO_CA: an improved honey-badger optimization-based communication approach for energy-efficient deployment of secure flying ad-hoc network (FANET)"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-4804-0242",
+    "authenticated-orcid": false,
+    "given": "Mayank",
+    "family": "Namdev",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sachin",
+    "family": "Goyal",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ratish",
+    "family": "Agrawal",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     12,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "Soft Computing"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 5,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.3390/electronics11071099",
+  "title": [
+   "Survey on Q-Learning-Based Position-Aware Routing Protocols in Flying Ad Hoc Networks"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-6280-7139",
+    "authenticated-orcid": false,
+    "given": "Muhammad Morshed",
+    "family": "Alam",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Chosun University, 309 Pilmun-daero, Dong-gu, Gwangju 61452, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9175-3400",
+    "authenticated-orcid": false,
+    "given": "Sangman",
+    "family": "Moh",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Engineering, Chosun University, 309 Pilmun-daero, Dong-gu, Gwangju 61452, Korea"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     3,
+     30
+    ]
+   ]
+  },
+  "container-title": [
+   "Electronics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 54,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1016/j.adhoc.2025.103828",
+  "title": [
+   "GPSR-CB: A novel routing algorithm for FANET using cross-layer models in combination with multi-level backbone UAV"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0007-5955-9334",
+    "authenticated-orcid": false,
+    "given": "Mai Cuong",
+    "family": "Tho",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-0951-4046",
+    "authenticated-orcid": false,
+    "given": "Le Huu",
+    "family": "Binh",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tu T.",
+    "family": "Vo",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "Ad Hoc Networks"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 11,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1109/iconecct67014.2025.11470226",
+  "title": [
+   "QoS-Aware Routing Approaches in Flying Ad-Hoc Networks (FANETs): An Analytical Survey"
+  ],
+  "author": [
+   {
+    "given": "Mansi",
+    "family": "Dubey",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "MITS - DU,Department of Computer Science and Engineering,Gwalior (M.P.),India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Kuldeep Narayan",
+    "family": "Tripathi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "MITS - DU,Department of Computer Science and Engineering,Gwalior (M.P.),India"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     26
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 International Conference on Electrical, Communication, and Computing Technologies (iCONECCT)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1142/s0217984920500104",
+  "title": [
+   "An adaptive Flying Ad-hoc Network (FANET) for disaster response operations to improve quality of service (QoS)"
+  ],
+  "author": [
+   {
+    "given": "Ankur",
+    "family": "Pandey",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Engineering, University Institute of Technology, RGPV, Bhopal 462023, India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Piyush Kumar",
+    "family": "Shukla",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science and Engineering, University Institute of Technology, RGPV, Bhopal 462023, India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Ratish",
+    "family": "Agrawal",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Information Technology, University Institute of Technology, RGPV, Bhopal 462023, India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     3,
+     27
+    ]
+   ]
+  },
+  "container-title": [
+   "Modern Physics Letters B"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 25,
+  "publisher": "World Scientific Pub Co Pte Lt"
+ },
+ {
+  "DOI": "10.22214/ijraset.2025.67520",
+  "title": [
+   "An Enhanced ACO Routing Protocol for Flying Ad Hoc Network"
+  ],
+  "author": [
+   {
+    "given": "Tripti",
+    "family": "Gupta",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     4,
+     30
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal for Research in Applied Science and Engineering Technology"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "International Journal for Research in Applied Science and Engineering Technology"
+ },
+ {
+  "DOI": "10.1109/icramet62801.2024.10809170",
+  "title": [
+   "Performance Improvement of Ad-hoc On-demand Distance Vector (AODV) Routing Protocol Using K-Means Clustering in Flying Ad-hoc Network"
+  ],
+  "author": [
+   {
+    "family": "Samsudiat",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Universitas Indonesia,Department of Electrical Engineering,Jakarta,Indonesia"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Muhammad Haidar",
+    "family": "Ali",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Universitas Indonesia,Department of Electrical Engineering,Jakarta,Indonesia"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hafni",
+    "family": "Ferdian",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Universitas Indonesia,Department of Electrical Engineering,Jakarta,Indonesia"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Riri Fitri",
+    "family": "Sari",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Universitas Indonesia,Department of Electrical Engineering,Jakarta,Indonesia"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     11,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.14569/ijacsa.2021.0120773",
+  "title": [
+   "Evaluation of Routing Protocols and Mobility in Flying Ad-hoc Network"
+  ],
+  "author": [
+   {
+    "given": "Emad",
+    "family": "Felemban",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Advanced Computer Science and Applications"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 6,
+  "publisher": "The Science and Information Organization"
+ },
+ {
+  "DOI": "10.1016/j.adhoc.2022.102894",
+  "title": [
+   "A survey of cyber security threats and solutions for UAV communications and flying ad-hoc networks"
+  ],
+  "author": [
+   {
+    "given": "Kai-Yun",
+    "family": "Tsao",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Thomas",
+    "family": "Girdler",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-4902-8226",
+    "authenticated-orcid": false,
+    "given": "Vassilios G.",
+    "family": "Vassilakis",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "Ad Hoc Networks"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 258,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.7307/ptt.v34i6.4159",
+  "title": [
+   "Reinforcement Learning-Based Routing Protocols in Vehicular and Flying Ad Hoc Networks \u2013 A Literature Survey"
+  ],
+  "author": [
+   {
+    "given": "Pavle",
+    "family": "Bugar\u010di\u0107",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Nenad",
+    "family": "Jevti\u0107",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Marija",
+    "family": "Malnar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     12,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "Promet - Traffic&amp;Transportation"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 11,
+  "publisher": "Faculty of Transport and Traffic Sciences"
+ },
+ {
+  "DOI": "10.1109/access.2019.2923840",
+  "title": [
+   "Routing in Flying Ad Hoc Networks: Survey, Constraints, and Future Challenge Perspectives"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-3117-3265",
+    "authenticated-orcid": false,
+    "given": "Omar Sami",
+    "family": "Oubbati",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mohammed",
+    "family": "Atiquzzaman",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Pascal",
+    "family": "Lorenz",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Md. Hasan",
+    "family": "Tareque",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Md. Shohrab",
+    "family": "Hossain",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Access"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 265,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1109/cisce62493.2024.10653193",
+  "title": [
+   "Flying Ad-Hoc Network Routing Algorithm Based on Knowledge-Graph Embedding"
+  ],
+  "author": [
+   {
+    "given": "Yuyao",
+    "family": "Shen",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Information and Electronics, Beijing Institute of Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Qiuxiao",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Information and Electronics, Beijing Institute of Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yiming",
+    "family": "Liu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Information and Electronics, Beijing Institute of Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Zhifeng",
+    "family": "Ma",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Integrated Circuits and Electronics, Beijing Institute of Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     5,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 6th International Conference on Communications, Information System and Computer Engineering (CISCE)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.70849/ijsci03092664465",
+  "title": [
+   "A Mobility- and Information-Freshness-Aware Adaptive Federated Learning Framework for Collaborative Routing in Dense Flying Ad Hoc Networks (MAFA-FANET)"
+  ],
+  "author": [
+   {
+    "family": "Haruna Ocholi Enoch",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "family": "Osazuwa Oluwafemi George",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "family": "Samson Bitrus Visa",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "family": "Yohanna Ali Mshelia",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "family": "Zakari A. Suleiman",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Sciences and Innovation Engineering"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "International Journal of Sciences and Innovation Engineering"
+ }
+]

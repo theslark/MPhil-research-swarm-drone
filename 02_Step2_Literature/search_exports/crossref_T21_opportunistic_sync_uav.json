@@ -1,0 +1,561 @@
+[
+ {
+  "DOI": "10.1109/cds49703.2020.00046",
+  "title": [
+   "Design of Distributed Network Clock-Synchronization for Swarm UAV"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 International Conference on Computing and Data Science (CDS)"
+  ],
+  "is-referenced-by-count": 5
+ },
+ {
+  "DOI": "10.1109/meet67398.2025.11336068",
+  "title": [
+   "Energy-Efficient Data Backhaul for Opportunistic Uav-Assisted Maritime Internet of Things"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 International Conference on Meta-Networking (MEET)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/candarw53999.2021.00008",
+  "title": [
+   "A Performance Evaluation of Vehicular Swarm Intelligence for Seamless Route Guidance using Opportunistic Networking"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 Ninth International Symposium on Computing and Networking Workshops (CANDARW)"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.1109/smartnets58706.2023.10215853",
+  "title": [
+   "A Novel Blockchain Based Decentralized Data Management Model for Swarm UAV Systems"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     7,
+     25
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 International Conference on Smart Applications, Communications and Networking (SmartNets)"
+  ],
+  "is-referenced-by-count": 4
+ },
+ {
+  "DOI": "10.1109/icnc59896.2024.10556347",
+  "title": [
+   "Guaranteeing Partial State Synchronization for UAV Platoon Under Message or UAV Loss"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     2,
+     19
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 International Conference on Computing, Networking and Communications (ICNC)"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.1109/ccnc49032.2021.9369643",
+  "title": [
+   "Distributed Optimal Scheduling in UAV Swarm Network"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     1,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE 18th Annual Consumer Communications &amp; Networking Conference (CCNC)"
+  ],
+  "is-referenced-by-count": 7
+ },
+ {
+  "DOI": "10.3390/sym12071111",
+  "title": [
+   "Dynamic Topology Reconstruction Protocol for UAV Swarm Networking"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     7,
+     3
+    ]
+   ]
+  },
+  "container-title": [
+   "Symmetry"
+  ],
+  "is-referenced-by-count": 15
+ },
+ {
+  "DOI": "10.37200/ijpr/v24i5/pr202051",
+  "title": [
+   "CAT Swarm Optimization Algorithm for Data Aggregation in UAV Assisted in UWSN"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Psychosocial Rehabilitation"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.23919/jcc.fa.2025-0432.202607",
+  "title": [
+   "Research on cooperative opportunistic array radar deployment in UAV swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "China Communications"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/icnc68183.2026.11416994",
+  "title": [
+   "Implementation of UAV Swarm Flight Exploration based on Mobile Sensing Clusters Using Swarm Intelligence"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     16
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 International Conference on Computing, Networking and Communications (ICNC)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/wimob70978.2026.11777939",
+  "title": [
+   "Topology-Aware Analysis of Context Synchronization in Opportunistic VANETs"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 22nd International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.23919/ifipnetworking46909.2019.8999476",
+  "title": [
+   "Data collection and node counting by opportunistic communication"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 IFIP Networking Conference (IFIP Networking)"
+  ],
+  "is-referenced-by-count": 29
+ },
+ {
+  "DOI": "10.23919/ifipnetworking.2019.8816851",
+  "title": [
+   "Data Collection and Node Counting by Opportunistic Communication"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 IFIP Networking Conference (IFIP Networking)"
+  ],
+  "is-referenced-by-count": 4
+ },
+ {
+  "DOI": "10.1109/wcnc61545.2025.10978296",
+  "title": [
+   "Enhanced UAV Swarm Networking: a Distributed Density Peaks Clustering Approach*"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     3,
+     24
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE Wireless Communications and Networking Conference (WCNC)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/jiot.2025.3637836",
+  "title": [
+   "Air\u2013Ground Collaborative Networking and Transmission Scheduling for Opportunistic UAV-Assisted Data Collection"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Internet of Things Journal"
+  ],
+  "is-referenced-by-count": 2
+ },
+ {
+  "DOI": "10.3390/rs15092313",
+  "title": [
+   "Neighborhood Selection Synchronization Mechanism-Based Moving Source Localization Using UAV Swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     4,
+     27
+    ]
+   ]
+  },
+  "container-title": [
+   "Remote Sensing"
+  ],
+  "is-referenced-by-count": 2
+ },
+ {
+  "DOI": "10.1109/fine71157.2026.00014",
+  "title": [
+   "Robust UAV Swarm Coordination in IoT-Constrained Wireless Environments: A Comparative Study"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 International Conference on Future and Intelligent Networking (FINE)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/tdsc.2026.3701006",
+  "title": [
+   "When Gossip Meets Flames: A Gossip Learning Framework for Enhancing UAV Swarm Robustness in Forest Fire Detection"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Transactions on Dependable and Secure Computing"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.62762/tacs.2025.747408",
+  "title": [
+   "Reliable Data Exchange in UAV Swarm Networks Using Advanced Networking Techniques"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "ICCK Transactions on Advanced Computing and Systems"
+  ],
+  "is-referenced-by-count": 3
+ },
+ {
+  "DOI": "10.1109/icnc57223.2023.10074263",
+  "title": [
+   "Distributed UAV Swarm Placement Optimization for Compressive Sensing based Target Localization"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 International Conference on Computing, Networking and Communications (ICNC)"
+  ],
+  "is-referenced-by-count": 1
+ },
+ {
+  "DOI": "10.1109/cscn71666.2026.11771941",
+  "title": [
+   "Integrity-Aware Digital Twin Synchronization for ISAC-Enabled UAV Networks"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE Conference on Standards for Communications and Networking (CSCN)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1117/12.2611351",
+  "title": [
+   "A multitask-based flexible networking and resource scheduling algorithm for UAV swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "International Conference on Mechanical Engineering, Measurement Control, and Instrumentation"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1117/12.3024761",
+  "title": [
+   "Intelligent anti-jamming scheme of UAV swarm based on DQN"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     4,
+     4
+    ]
+   ]
+  },
+  "container-title": [
+   "Second International Conference on Informatics, Networking, and Computing (ICINC 2023)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/icnc47757.2020.9049828",
+  "title": [
+   "Data Size Aware Forwarding in Opportunistic Mobile Networks"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 International Conference on Computing, Networking and Communications (ICNC)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1109/ccnc49033.2022.9700623",
+  "title": [
+   "Sum-Rate Optimization for Visible-Light-Band UAV Networks Based on Particle Swarm Optimization"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     1,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 IEEE 19th Annual Consumer Communications &amp; Networking Conference (CCNC)"
+  ],
+  "is-referenced-by-count": 10
+ },
+ {
+  "DOI": "10.1109/eiecc64539.2024.10929518",
+  "title": [
+   "Fusion of Deep Learning and Adaptive Networking for UAV Swarm Communication Performance Optimization"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     12,
+     27
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 4th International Conference on Electronic Information Engineering and Computer Communication (EIECC)"
+  ],
+  "is-referenced-by-count": 0
+ },
+ {
+  "DOI": "10.1016/j.comcom.2023.08.019",
+  "title": [
+   "The low latency networking method for task-driven MEC-enabled UAV swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Computer Communications"
+  ],
+  "is-referenced-by-count": 5
+ },
+ {
+  "DOI": "10.1109/icoin59985.2024.10572185",
+  "title": [
+   "DRL-Based Distributed Joint Serving and Charging Scheduling for UAV Swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     1,
+     17
+    ]
+   ]
+  },
+  "container-title": [
+   "2024 International Conference on Information Networking (ICOIN)"
+  ],
+  "is-referenced-by-count": 3
+ },
+ {
+  "DOI": "10.1109/nana53684.2021.00068",
+  "title": [
+   "An efficient authentication scheme based on Zero Trust for UAV swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 International Conference on Networking and Network Applications (NaNA)"
+  ],
+  "is-referenced-by-count": 20
+ },
+ {
+  "DOI": "10.1109/ispa-bdcloud-sustaincom-socialcom48970.2019.00042",
+  "title": [
+   "Random Label Based Security Authentication Mechanism for Large-Scale UAV Swarm"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 IEEE Intl Conf on Parallel &amp; Distributed Processing with Applications, Big Data &amp; Cloud Computing, Sustainable Computing &amp; Communications, Social Computing &amp; Networking (ISPA/BDCloud/SocialCom/SustainCom)"
+  ],
+  "is-referenced-by-count": 9
+ }
+]

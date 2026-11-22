@@ -1,0 +1,2603 @@
+[
+ {
+  "DOI": "10.36222/ejt.1434751",
+  "title": [
+   "A Communication System for Dynamic Leader Selection in Distributed UAV Swarm Architecture"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0008-4211-941X",
+    "authenticated-orcid": true,
+    "given": "Abdulmelik",
+    "family": "Bekmez",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "FAT\u0130H SULTAN MEHMET VAKIF \u00dcN\u0130VERS\u0130TES\u0130"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-5780-6334",
+    "authenticated-orcid": true,
+    "given": "Kadir",
+    "family": "Aram",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "FAT\u0130H SULTAN MEHMET VAKIF \u00dcN\u0130VERS\u0130TES\u0130, M\u00dcHEND\u0130SL\u0130K FAK\u00dcLTES\u0130"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     2,
+     15
+    ]
+   ]
+  },
+  "container-title": [
+   "European Journal of Technic"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "INESEG Yayincilik"
+ },
+ {
+  "DOI": "10.3390/electronics11142143",
+  "title": [
+   "Voting-Based Scheme for Leader Election in Lead-Follow UAV Swarm with Constrained Communication"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-7106-427X",
+    "authenticated-orcid": false,
+    "given": "Yuan",
+    "family": "Zuo",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Unmanned Systems Research Center, National Innovation Institute of Defense Technology, Academy of Military Science, Beijing 100071, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wen",
+    "family": "Yao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Unmanned Systems Research Center, National Innovation Institute of Defense Technology, Academy of Military Science, Beijing 100071, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qiang",
+    "family": "Chang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Unmanned Systems Research Center, National Innovation Institute of Defense Technology, Academy of Military Science, Beijing 100071, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Xiaozhou",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Unmanned Systems Research Center, National Innovation Institute of Defense Technology, Academy of Military Science, Beijing 100071, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-3001-5284",
+    "authenticated-orcid": false,
+    "given": "Jianjun",
+    "family": "Gui",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Unmanned Systems Research Center, National Innovation Institute of Defense Technology, Academy of Military Science, Beijing 100071, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jiangyi",
+    "family": "Qin",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Unmanned Systems Research Center, National Innovation Institute of Defense Technology, Academy of Military Science, Beijing 100071, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     7,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "Electronics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 21,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/ipdpsw71298.2026.00016",
+  "title": [
+   "Immediate Deterministic Leader Election (IDLE) Algorithm for Reducing Downtime in Distributed Systems"
+  ],
+  "author": [
+   {
+    "given": "Masahiro",
+    "family": "Tanaka",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Keio University",
+      "place": [
+       "Yokohama, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hideyuki",
+    "family": "Kawashima",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Keio University",
+      "place": [
+       "Fujisawa, Japan"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/lcomm.2025.3578372",
+  "title": [
+   "The SINR Meta Distribution in UAV Swarm Networks With Distributed Election Multiple Access"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0001-9522-6413",
+    "authenticated-orcid": false,
+    "given": "Yanan",
+    "family": "Liang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-0624-7499",
+    "authenticated-orcid": false,
+    "given": "Xu",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0009-0001-6843-0571",
+    "authenticated-orcid": false,
+    "given": "Mingqiang",
+    "family": "Yang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Fanyi",
+    "family": "Meng",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "IEEE Communications Letters"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 2,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ {
+  "DOI": "10.1109/ccnc49032.2021.9369643",
+  "title": [
+   "Distributed Optimal Scheduling in UAV Swarm Network"
+  ],
+  "author": [
+   {
+    "given": "Wei",
+    "family": "Sun",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     1,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE 18th Annual Consumer Communications &amp; Networking Conference (CCNC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 7,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.2514/6.2019-2287",
+  "title": [
+   "UAV Swarm Mapping Using a Fully Distributed Control Approach"
+  ],
+  "author": [
+   {
+    "given": "Tristan",
+    "family": "Sherman",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "California State Polytechnic University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Scott",
+    "family": "Boskovich",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "California State Polytechnic University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "AIAA Scitech 2019 Forum"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 10,
+  "publisher": "American Institute of Aeronautics and Astronautics"
+ },
+ {
+  "DOI": "10.1109/globecom46510.2021.9685538",
+  "title": [
+   "Dynamic Leader Selection in a Master-Slave Architecture-Based Micro UAV Swarm"
+  ],
+  "author": [
+   {
+    "given": "Sudip",
+    "family": "Misra",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Pallav Kumar",
+    "family": "Deb",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Kartik",
+    "family": "Saini",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     12
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE Global Communications Conference (GLOBECOM)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 15,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.4271/2026-99-0621",
+  "title": [
+   "Swarm Cooperative Strategy for Multi-UAV Based on Adaptive Boundary Discretization and Distributed Particle Swarm Optimization"
+  ],
+  "author": [
+   {
+    "given": "Yunbo",
+    "family": "Zhou",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology (School of Cybersp"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Di",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology (School of Cybersp"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wei",
+    "family": "Xia",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science and Technology (School of Cybersp"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     6
+    ]
+   ]
+  },
+  "container-title": [
+   "SAE Technical Paper Series"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "SAE International"
+ },
+ {
+  "DOI": "10.1109/cac57257.2022.10055628",
+  "title": [
+   "A Distributed Target Allocation Algorithm for UAV Swarm Confrontation"
+  ],
+  "author": [
+   {
+    "given": "Ziqi",
+    "family": "Guo",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,School of Aeronautics and Astronautics,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yuankai",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,School of Aeronautics and Astronautics,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yuan",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,School of Aeronautics and Astronautics,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xiaosu",
+    "family": "Tan",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Electronic Science and Technology of China,School of Aeronautics and Astronautics,Chengdu,China,611731"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     25
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 China Automation Congress (CAC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icpads56603.2022.00014",
+  "title": [
+   "A Distributed Method to Form UAV Swarm based on Moncular Vision"
+  ],
+  "author": [
+   {
+    "given": "Yingchao",
+    "family": "Jia",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Nanjing University of Aeronautics &#x0026; Astronautics,College of Computer Science and Technology,Nanjing,China,211106"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ming",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Institute of Computer Science and Technology,Nanjing University of Aeronautics and Astronautics,Nanjing,China,210016"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yan",
+    "family": "Gao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Chinese Institute of Electronics,Beijing,China,100840"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Huibin",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Chuzhou University Anhui,College of Computer and Information Engineering,Chuzhou,China,239000"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 IEEE 28th International Conference on Parallel and Distributed Systems (ICPADS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icdcs57875.2023.00032",
+  "title": [
+   "Churn-Tolerant Leader Election Protocols"
+  ],
+  "author": [
+   {
+    "given": "Jiangran",
+    "family": "Wang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Illinois at Urbana-Champaign,Department of Electrical and Computer Engineering,Champaign,IL,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Indranil",
+    "family": "Gupta",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Illinois at Urbana-Champaign,Department of Computer Science,Champaign,IL,USA"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.jpdc.2020.05.019",
+  "title": [
+   "Compact self-stabilizing leader election for general networks"
+  ],
+  "author": [
+   {
+    "given": "L\u00e9lia",
+    "family": "Blin",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "S\u00e9bastien",
+    "family": "Tixeuil",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "Journal of Parallel and Distributed Computing"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 6,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.3390/e27030256",
+  "title": [
+   "Slot Allocation Protocol for UAV Swarm Ad Hoc Networks: A Distributed Coalition Formation Game Approach"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0006-7990-904X",
+    "authenticated-orcid": false,
+    "given": "Liubin",
+    "family": "Song",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "College of Communications Engineering, Army Engineering University of PLA, No. 2 Biaoying, Ruijin Road, Qinhuai District, Nanjing 210007, China"
+     },
+     {
+      "name": "Institute of Microelectronics, Chinese Academy of Sciences, No. 3 Beitucheng West Road, Beijing 100029, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Daoxing",
+    "family": "Guo",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "College of Communications Engineering, Army Engineering University of PLA, No. 2 Biaoying, Ruijin Road, Qinhuai District, Nanjing 210007, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     2,
+     28
+    ]
+   ]
+  },
+  "container-title": [
+   "Entropy"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 6,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.14722/ndss.2026.242407",
+  "title": [
+   "Mobius: Enabling Byzantine-Resilient Single Secret Leader Election with Uniquely Verifiable State"
+  ],
+  "author": [
+   {
+    "given": "Hanyue",
+    "family": "Dou",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Peifang",
+    "family": "Ni",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Yingzi",
+    "family": "Gao",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jing",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings 2026 Network and Distributed System Security Symposium"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Internet Society"
+ },
+ {
+  "DOI": "10.1109/icnc57223.2023.10074263",
+  "title": [
+   "Distributed UAV Swarm Placement Optimization for Compressive Sensing based Target Localization"
+  ],
+  "author": [
+   {
+    "given": "Yen-Chin",
+    "family": "Wang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of California,Electrical Engineering Department,Los Angeles"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Danijela",
+    "family": "Cabric",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of California,Electrical Engineering Department,Los Angeles"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 International Conference on Computing, Networking and Communications (ICNC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/mosicom67153.2025.11398174",
+  "title": [
+   "Adaptive UAV Swarm Leader Selection Using a Fuzzy Logic Multi-Index Framework"
+  ],
+  "author": [
+   {
+    "given": "Simarjeet",
+    "family": "Singh",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Bharat Electronics Limited,Central Research Laboratory,Ghaziabad,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Kanishk",
+    "family": "Kumar",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Bharat Electronics Limited,Central Research Laboratory,Ghaziabad,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Vikas",
+    "family": "Bhaneriya",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Bharat Electronics Limited,Central Research Laboratory,Ghaziabad,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Amit",
+    "family": "Mathur",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Bharat Electronics Limited,Central Research Laboratory,Ghaziabad,India"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 International Conference on Modeling, Simulation &amp;amp; Intelligent Computing (MoSICom)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.procs.2026.10.292",
+  "title": [
+   "Quasi-Differential GNSS Positioning for Leader-Follower UAV Swarm Control in Humanitarian Demining"
+  ],
+  "author": [
+   {
+    "given": "\u0141ukasz",
+    "family": "Lemieszewski",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jaros\u0142aw",
+    "family": "Becker",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jan",
+    "family": "Ko\u0142aci\u0144ski",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Evgeny",
+    "family": "Ochin",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "container-title": [
+   "Procedia Computer Science"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1504/ijitm.2025.10075446",
+  "title": [
+   "A Novel Leader Election Mechanism for Distributed Systems using Dynamic Priority Scores"
+  ],
+  "author": [
+   {
+    "given": "Remyakrishnan",
+    "family": "P",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title": [
+   "International Journal of Information Technology and Management"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Inderscience Publishers"
+ },
+ {
+  "DOI": "10.1109/icicn71760.2026.11745014",
+  "title": [
+   "An Analysis of Queue Length Characteristics in a UAV Swarm MAC-Layer Scheduling Strategy Based on Leader Priority"
+  ],
+  "author": [
+   {
+    "given": "Jiahang",
+    "family": "Huang",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Yunnan University",
+      "place": [
+       "Kunming, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Liyong",
+    "family": "Bao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Yunnan University",
+      "place": [
+       "Kunming, China"
+      ]
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 14th International Conference on Information and Communication Networks (ICICN)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icaace69793.2026.11509203",
+  "title": [
+   "Distributed Model-Free Adaptive Control for Leader-Follower Consensus in Disturbed UAV Swarms"
+  ],
+  "author": [
+   {
+    "given": "Yuxin",
+    "family": "Cao",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "College of Mechanical and Electric Engineering, Nanjing Forestry University,Nanjing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     20
+    ]
+   ]
+  },
+  "container-title": [
+   "2026 9th International Conference on Advanced Algorithms and Control Engineering (ICAACE)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/iccmc.2019.8819837",
+  "title": [
+   "3 -Phase Leader Election Algorithm for Distributed Systems"
+  ],
+  "author": [
+   {
+    "given": "Pushya",
+    "family": "Chaparala",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Aparna Rajesh",
+    "family": "Atmakuri",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "S. Siva Sankara",
+    "family": "Rao",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     3
+    ]
+   ]
+  },
+  "container-title": [
+   "2019 3rd International Conference on Computing Methodologies and Communication (ICCMC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 5,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/icdcsw56584.2022.00059",
+  "title": [
+   "Inducing Defenders to Mislead an Attacking UAV Swarm"
+  ],
+  "author": [
+   {
+    "given": "Jennifer",
+    "family": "Simonjan",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Lakeside Labs,Klagenfurt,Austria"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Stefano Ricardo",
+    "family": "Probst",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "University of Klagenfurt, Institute of Networked and Embedded Systems,Klagenfurt,Austria"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Melanie",
+    "family": "Schranz",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Lakeside Labs,Klagenfurt,Austria"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2022 IEEE 42nd International Conference on Distributed Computing Systems Workshops (ICDCSW)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 4,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1007/s10791-026-10563-6",
+  "title": [
+   "Policy separated learning assisted COPRAS based leader election for dynamic clustered distributed systems"
+  ],
+  "author": [
+   {
+    "given": "Suresh Kumar",
+    "family": "Jha",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sumit",
+    "family": "Kumar",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ketan",
+    "family": "Anand",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "Discover Computing"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ {
+  "DOI": "10.1109/ispds58840.2023.10235688",
+  "title": [
+   "Comparative Research of One-Bit Feedback Algorithms Based on UAV Swarm"
+  ],
+  "author": [
+   {
+    "given": "Siyu",
+    "family": "Jia",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "China Academy of Electronic and Information Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Juan",
+    "family": "Tian",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "China Academy of Electronic and Information Technology,Beijing,China"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     7,
+     14
+    ]
+   ]
+  },
+  "container-title": [
+   "2023 4th International Conference on Information Science, Parallel and Distributed Systems (ISPDS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.3390/drones7030216",
+  "title": [
+   "A Distributed Double-Loop Optimization Method with Fast Response for UAV Swarm Scheduling"
+  ],
+  "author": [
+   {
+    "given": "Runfeng",
+    "family": "Chen",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "College of Intelligence Science and Technology, National University of Defense Technology, Changsha 410073, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jie",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "College of Intelligence Science and Technology, National University of Defense Technology, Changsha 410073, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yiting",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "College of Intelligence Science and Technology, National University of Defense Technology, Changsha 410073, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yuchong",
+    "family": "Huang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "College of Intelligence Science and Technology, National University of Defense Technology, Changsha 410073, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     3,
+     21
+    ]
+   ]
+  },
+  "container-title": [
+   "Drones"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 2,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.3390/s22124467",
+  "title": [
+   "Intelligent Scheduling Methodology for UAV Swarm Remote Sensing in Distributed Photovoltaic Array Maintenance"
+  ],
+  "author": [
+   {
+    "given": "Qing",
+    "family": "An",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Artificial Intelligence, Wuchang University of Technology, Wuhan 430223, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qiqi",
+    "family": "Hu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Intelligent Construction, Wuchang University of Technology, Wuhan 430223, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ruoli",
+    "family": "Tang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Naval Architecture, Ocean and Energy Power Engineering, Wuhan University of Technology, Wuhan 430063, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Lang",
+    "family": "Rao",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Artificial Intelligence, Wuchang University of Technology, Wuhan 430223, China"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     6,
+     13
+    ]
+   ]
+  },
+  "container-title": [
+   "Sensors"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 8,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/icdcs51616.2021.00050",
+  "title": [
+   "Time and Communication Complexity of Leader Election in Anonymous Networks"
+  ],
+  "author": [
+   {
+    "given": "Dariusz R.",
+    "family": "Kowalski",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Miguel A.",
+    "family": "Mosteiro",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE 41st International Conference on Distributed Computing Systems (ICDCS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 8,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1145/3583668.3594576",
+  "title": [
+   "Improved Tradeoffs for Leader Election"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-2062-6855",
+    "authenticated-orcid": false,
+    "given": "Shay",
+    "family": "Kutten",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Technion - Israel Institute of Technology, Haifa, Israel"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-7442-7002",
+    "authenticated-orcid": false,
+    "given": "Peter",
+    "family": "Robinson",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer ^ S, Augusta University, Augusta, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-5279-5314",
+    "authenticated-orcid": false,
+    "given": "Ming Ming",
+    "family": "Tan",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Augusta University, Augusta, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-0939-8230",
+    "authenticated-orcid": false,
+    "given": "Xianbin",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "City University of Hong Kong, Hong Kong, Hong Kong"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     6,
+     16
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 2023 ACM Symposium on Principles of Distributed Computing"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "ACM"
+ },
+ {
+  "DOI": "10.1145/3644713.3644740",
+  "title": [
+   "A Lightweight Leader Election Algorithm for IoT: Cloud Storage Use Case"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-0043-7742",
+    "authenticated-orcid": false,
+    "given": "Ahcene",
+    "family": "Bounceur",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Information and Computer Science Departmenet, King Fahd University of Petroleum and Minerals, Saudi Arabia"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     12,
+     21
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 7th International Conference on Future Networks and Distributed Systems"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "ACM"
+ },
+ {
+  "DOI": "10.1109/cds49703.2020.00046",
+  "title": [
+   "Design of Distributed Network Clock-Synchronization for Swarm UAV"
+  ],
+  "author": [
+   {
+    "given": "Mingming",
+    "family": "Guo",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Feng",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Fei",
+    "family": "Peng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Shi-cong",
+    "family": "Lin",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     8
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 International Conference on Computing and Data Science (CDS)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 5,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1088/1742-6596/1168/3/032073",
+  "title": [
+   "Consensus-based Robust Clustering and Leader Election Algorithm for homogeneous UAV clusters"
+  ],
+  "author": [
+   {
+    "given": "Tao",
+    "family": "Feng",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Weiping",
+    "family": "Fan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jiuyang",
+    "family": "Tang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Weixin",
+    "family": "Zeng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     2
+    ]
+   ]
+  },
+  "container-title": [
+   "Journal of Physics: Conference Series"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 6,
+  "publisher": "IOP Publishing"
+ },
+ {
+  "DOI": "10.1109/icirt66379.2025.11216753",
+  "title": [
+   "Distributed Path Planning for Multi-UAV Systems Integrating Fish Swarm Behavior Strategies"
+  ],
+  "author": [
+   {
+    "given": "Jiaan",
+    "family": "Nie",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Automation and Intelligence, Beijing Jiaotong University (BJTU),Beijing,PR China,100044"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Runmei",
+    "family": "Li",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Automation and Intelligence, Beijing Jiaotong University (BJTU),Beijing,PR China,100044"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Zhang",
+    "family": "Hui",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Signal &#x0026; Comm. Research Institute, China Academy Railway Sciences(CARS),Beijing,PR China,100081"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 IEEE International Conference on Intelligent Rail Transportation (ICIRT)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 0,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1109/dcoss-iot65416.2025.00066",
+  "title": [
+   "Distributed Cooperative UAV Leader-Follower Strategies in GNSS-Denied Environments"
+  ],
+  "author": [
+   {
+    "given": "Fadoua Ait",
+    "family": "Ayane",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Mohammed VI Polytechnic University, Ai Movement - International Artificial Intelligence Center of Morocco,Morocco"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Btissam",
+    "family": "El Khamlichi",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Mohammed VI Polytechnic University, Ai Movement - International Artificial Intelligence Center of Morocco,Morocco"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Amal El Fallah",
+    "family": "Seghrouchni",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Mohammed VI Polytechnic University, Ai Movement - International Artificial Intelligence Center of Morocco,Morocco"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1016/j.cja.2019.12.033",
+  "title": [
+   "Distributed UAV swarm based on spatial grid model"
+  ],
+  "author": [
+   {
+    "given": "Bangkui",
+    "family": "FAN",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Zhiwei",
+    "family": "ZHANG",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Ruiyu",
+    "family": "ZHANG",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     11
+    ]
+   ]
+  },
+  "container-title": [
+   "Chinese Journal of Aeronautics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 6,
+  "publisher": "Elsevier BV"
+ },
+ {
+  "DOI": "10.1109/scored50371.2020.9250957",
+  "title": [
+   "Multi-Leader Particle Swarm Optimization for Optimal Planning of Distributed Generation"
+  ],
+  "author": [
+   {
+    "given": "Eshan",
+    "family": "Karunarathne",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jagadeesh",
+    "family": "Pasupuleti",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Janaka",
+    "family": "Ekanayake",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Dilini",
+    "family": "Almeida",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     9,
+     27
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 IEEE Student Conference on Research and Development (SCOReD)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 3,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.3390/electronics12010089",
+  "title": [
+   "Intelligent Distributed Swarm Control for Large-Scale Multi-UAV Systems: A Hierarchical Learning Approach"
+  ],
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-8874-3807",
+    "authenticated-orcid": false,
+    "given": "Shawon",
+    "family": "Dey",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Electrical and Biomedical Engineering, University of Nevada, Reno, NV 89557, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hao",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Electrical and Biomedical Engineering, University of Nevada, Reno, NV 89557, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     12,
+     26
+    ]
+   ]
+  },
+  "container-title": [
+   "Electronics"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 18,
+  "publisher": "MDPI AG"
+ },
+ {
+  "DOI": "10.1109/cyberc49757.2020.00061",
+  "title": [
+   "Security Performance Analysis of Physical Layer for UAV Swarm Networks"
+  ],
+  "author": [
+   {
+    "given": "Runze",
+    "family": "Dong",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Buhong",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Tianhao",
+    "family": "Cheng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     10
+    ]
+   ]
+  },
+  "container-title": [
+   "2020 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 2,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.1044/leader.an4.24072019.63",
+  "title": [
+   "2019 Election Results"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     7
+    ]
+   ]
+  },
+  "container-title": [
+   "The ASHA Leader"
+  ],
+  "type": "journal-article",
+  "is-referenced-by-count": 0,
+  "publisher": "American Speech Language Hearing Association"
+ },
+ {
+  "DOI": "10.1109/vtc2021-fall52928.2021.9625424",
+  "title": [
+   "Distributed Mission and Charging Scheduling for UAV Swarm to Maximize Service Coverage"
+  ],
+  "author": [
+   {
+    "given": "Chung-I",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Li-Hsing",
+    "family": "Yen",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Min-Chun",
+    "family": "Cho",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 6,
+  "publisher": "IEEE"
+ },
+ {
+  "DOI": "10.5220/0011319900003286",
+  "title": [
+   "Position Optimization for Swarm-based UAV-to-UAV Communication Systems"
+  ],
+  "author": [
+   {
+    "given": "Mingzhi",
+    "family": "Xu",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University, Guangzhou, China, --- Select a Country ---"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Kuan",
+    "family": "Wu",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University, Guangzhou, China, --- Select a Country ---"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Jianchao",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University, Guangzhou, China, --- Select a Country ---"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Xiaojing",
+    "family": "Huang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University, Guangzhou, China, --- Select a Country ---"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Ming",
+    "family": "Jiang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Electronics and Information Technology (School of Microelectronics), Sun Yat-sen University, Guangzhou, China, --- Select a Country ---"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the 19th International Conference on Wireless Networks and Mobile Systems"
+  ],
+  "type": "proceedings-article",
+  "is-referenced-by-count": 1,
+  "publisher": "SCITEPRESS - Science and Technology Publications"
+ }
+]
