@@ -1,0 +1,4 @@
+# S1 - Normal operation (Step 6, Table "Scenario matrix")
+# Full connectivity, no loss, no failures. All other values = Step 6 defaults (see uavsim/config.py).
+name = "S1_normal"
+comm_model = "full"
