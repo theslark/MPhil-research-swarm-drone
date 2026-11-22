@@ -31,6 +31,8 @@ def parse_bib(path):
 
 def bibtex_text(t):
     t = t.strip("{}")
+    t = re.sub(r"\\'\{?([A-Za-z])\}?", lambda m: m.group(1) + "\u0301", t)
+    t = t.replace("$\\varphi$", "φ")
     rep = {r"{\.I}": "İ", r"{\c{S}}": "Ş", r"{\c{s}}": "ş", r"{\'c}": "ć", r"\&": "&", "--": "–"}
     for a, b in rep.items():
         t = t.replace(a, b)
@@ -137,7 +139,7 @@ def math(s):
     s = re.sub(r"\\mathbb\{(\w)\}", lambda m: "\u200b" + BB.get(m.group(1), m.group(1)), s)
     s = re.sub(r"\\mathbf\{1\}", "<b>1</b>", s)
     s = re.sub(r"\\(?:mathrm|mathit|text|textsc|mathbf|operatorname)\{([^{}]*)\}", lambda m: "\u200b" + m.group(1), s)
-    s = re.sub(r"\\hat\s*\{\\mathbf\{(\w)\}\}", lambda m: m.group(1) + "\u0302", s)
+    s = re.sub(r"\\hat\s*\{\u200b?(\w)\}", lambda m: m.group(1) + "\u0302", s)
     s = re.sub(r"\\hat\s*\{?(\w)\}?", lambda m: m.group(1) + "\u0302", s)
     # fractions
     while r"\frac" in s:

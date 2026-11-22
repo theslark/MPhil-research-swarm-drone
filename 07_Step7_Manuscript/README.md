@@ -12,8 +12,18 @@
 | `latex/figures/fig*.pdf` | Figures used by LaTeX (vector) |
 | `latex/figures/fig*.svg / .png` | Editable sources and raster previews |
 | `latex/figures/make_figures.py` | Regenerates all figures (Python standard library only) |
+| `ieee_word/Manuscript_IEEE.docx` | **IEEE-format Word manuscript**: two-column, Times 10 pt, US Letter, IEEE headings, captions, numbered equations, affiliation footnote, running header |
+| `ieee_word/Manuscript_IEEE_preview.pdf` | LibreOffice rendering of the Word file, for a quick look |
+| `build_ieee_docx.py` | Rebuilds the IEEE Word file from `main.tex` (standard library; LibreOffice for figures/preview) |
 | `review_copy/Manuscript_Review_Copy.{docx,pdf,html}` | Single-column review copy for reading and commenting. **Not for submission** |
 | `build_review_copy.py` | Rebuilds the review copy from `main.tex` (needs LibreOffice) |
+
+**Which file is the master?** `latex/main.tex`. Both Word files are generated from it, and rebuilding overwrites them. If you switch to editing in Word (e.g., tracked changes with your supervisor), treat `ieee_word/Manuscript_IEEE.docx` as the new master and stop running the build scripts.
+
+**IEEE Word file notes.**
+- Equations are formatted text (italic, sub/superscripts) with right-aligned numbers, not Word equation objects.
+- The wide tables (I and V) sit in one-column sections.
+- The layout follows the IEEE Transactions template conventions, but it was generated rather than typed into IEEE's official .docx template. If the target journal requires its own template, paste the content into it.
 
 ## How to compile the IEEE version
 LaTeX was not available on this machine, so **the LaTeX source has not been compiled yet**. It passed a static check:

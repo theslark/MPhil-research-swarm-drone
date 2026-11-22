@@ -96,12 +96,11 @@ Consensus is impossible in asynchronous systems with even one crash~\cite{R05_fi
 \subsection{Research Gap}
 Table~\ref{tab:related} summarizes the closest works. Communication-robust allocators do not model UAV crashes; failure-reallocation methods assume that failures are known and that communication is reliable; MARL methods that tolerate attrition do not detect failures or reconcile state. No reviewed work (i)~detects failures under partitions, (ii)~replicates ownership and suspicion-related state so that it converges after a wrong suspicion, or (iii)~quantifies the resulting trade-off between recovery time and duplicated work. Because the evidence for several works is at abstract level, this gap statement is bounded by the search described above.
 
-\begin{table}[!t]
+\begin{table*}[!t]
 \centering
 \caption{Closest works. Y = addressed, P = partially, N = not addressed in the material examined, ? = not accessible.}
 \label{tab:related}
 \footnotesize
-\setlength{\tabcolsep}{3pt}
 \begin{tabular}{@{}lcccccc@{}}
 \toprule
 Work & Partitions & Crashes & Detection & Ambiguity & Reconcile & Learning\\
@@ -120,7 +119,7 @@ TACC~\cite{R50_xiong2026} & Y & N & N & N & N & Y\\
 This work & Y & Y & Y & Y & Y & Y\\
 \bottomrule
 \end{tabular}
-\end{table}
+\end{table*}
 
 % =====================================================================
 \section{Problem Formulation}\label{sec:problem}
