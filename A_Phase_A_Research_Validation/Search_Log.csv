@@ -1,0 +1,38 @@
+query_no,query,database,date,filters,top_n_screened
+Q01,"collaborative mapping UAV swarm intermittent communication",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q02,"multi-robot SLAM decentralized communication constrained",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q03,"distributed occupancy grid map merging multi-robot",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q04,"semantic map sharing multi-robot",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q05,"multi-UAV collaborative exploration decentralized",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q06,"map synchronization reconnection multi-robot",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q07,"multi-robot exploration intermittent communication rendezvous",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q08,"collaborative SLAM survey multi-robot",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q09,"change detection map update multi-robot dynamic environment",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q10,"CRDT robotics replicated map",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q11,"D2SLAM decentralized distributed collaborative visual-inertial SLAM aerial swarm",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q12,"Kimera-Multi robust distributed dense metric-semantic SLAM",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q13,"Hydra-Multi collaborative online construction 3D scene graphs multi-robot",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q14,"DCL-SLAM distributed collaborative LiDAR SLAM robotic swarm",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q15,"collaborative SLAM survey current research landscape",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q16,"multi-robot map fusion survey",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q17,"UAV swarm collaborative perception information sharing",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q18,"multi-UAV cooperative mapping communication limited bandwidth",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q19,"distributed Bayesian occupancy mapping multi-robot consensus",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q20,"multi-robot belief sharing intermittent connectivity map",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q21,"age of information map update UAV",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q22,"store carry forward UAV data dissemination swarm",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q23,"heterogeneous multi-robot exploration communication loss recovery",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q24,"UAV swarm search and rescue mapping decentralized",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q25,"semantic mapping UAV disaster",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q26,"Kimera-Multi robust distributed dense metric-semantic SLAM multi-robot systems",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q27,"Towards collaborative simultaneous localization and mapping survey current research landscape",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q28,"Resilient and distributed multi-robot visual SLAM datasets experiments lessons learned",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q29,"delay tolerant multi-robot mapping data sharing opportunistic",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q30,"multi-UAV map sharing communication outage",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q31,"UAV swarm environment model shared situational awareness decentralized",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q32,"multi-robot exploration communication dropout map merging consistency",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q33,"multi-agent reinforcement learning UAV exploration mapping coverage communication",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q34,"multi-robot SLAM survey 2024",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q35,"UAV swarm survey decentralized coordination autonomy review",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q36,"failure detection UAV swarm heartbeat node failure network partition",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
+Q37,"distinguishing node failure from disconnection mobile ad hoc network",Crossref,2026-11-23,from-pub-date 2023-01-01; journal-article + proceedings-article,8
